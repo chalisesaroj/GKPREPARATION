@@ -1,0 +1,2988 @@
+[
+  {
+    "question": "Nepal is a landlocked country located in which continent?",
+    "options": ["Africa", "Europe", "South America", "Asia"],
+    "correctAnswer": "Asia",
+    "section": "Geography"
+  },
+  {
+    "question": "Nepal is situated between which two latitudes?",
+    "options": [
+      "20° 22' N to 26° 27' N",
+      "30° 22' N to 34° 27' N",
+      "26° 22' N to 30° 27' N",
+      "24° 22' N to 28° 27' N"
+    ],
+    "correctAnswer": "26° 22' N to 30° 27' N",
+    "section": "Geography"
+  },
+  {
+    "question": "Between which two longitudes is Nepal situated?",
+    "options": [
+      "82° 04' E to 90° 12' E",
+      "78° 04' E to 86° 12' E",
+      "80° 04' E to 88° 12' E",
+      "84° 04' E to 92° 12' E"
+    ],
+    "correctAnswer": "80° 04' E to 88° 12' E",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of the total land area of the world does Nepal occupy?",
+    "options": ["0.3 percent", "2.82 percent", "0.09 percent", "0.03 percent"],
+    "correctAnswer": "0.03 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of the total land area of Asia does Nepal occupy?",
+    "options": ["2.82 percent", "0.3 percent", "0.03 percent", "1.5 percent"],
+    "correctAnswer": "0.3 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "Nepal occupies 2.82 percent of the total land area of which region?",
+    "options": ["The World", "Asia", "South Asia", "Europe"],
+    "correctAnswer": "South Asia",
+    "section": "Geography"
+  },
+  {
+    "question": "Between which two large Asian countries is Nepal located?",
+    "options": [
+      "Pakistan and Bangladesh",
+      "India and China",
+      "Myanmar and Bhutan",
+      "Afghanistan and Iran"
+    ],
+    "correctAnswer": "India and China",
+    "section": "Geography"
+  },
+  {
+    "question": "Nepal is approximately how far away from the Bay of Bengal?",
+    "options": ["885 km", "1,127 km", "193 km", "2,500 km"],
+    "correctAnswer": "1,127 km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total area of Nepal in square kilometers?",
+    "options": [
+      "1,47,181 sq km",
+      "56,827 sq km",
+      "1,38,000 sq km",
+      "1,50,000 sq km"
+    ],
+    "correctAnswer": "1,47,181 sq km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total area of Nepal in square miles?",
+    "options": [
+      "1,47,181 sq miles",
+      "56,827 sq miles",
+      "60,000 sq miles",
+      "45,000 sq miles"
+    ],
+    "correctAnswer": "56,827 sq miles",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the East-West length of Nepal?",
+    "options": ["193 km", "1,127 km", "885 km", "500 km"],
+    "correctAnswer": "885 km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the average North-South width of Nepal?",
+    "options": ["885 km", "193 km", "300 km", "150 km"],
+    "correctAnswer": "193 km",
+    "section": "Geography"
+  },
+  {
+    "question": "Which Indian states border Nepal to the south?",
+    "options": [
+      "West Bengal and Sikkim",
+      "Uttarakhand",
+      "Punjab and Haryana",
+      "Bihar and Uttar Pradesh"
+    ],
+    "correctAnswer": "Bihar and Uttar Pradesh",
+    "section": "Geography"
+  },
+  {
+    "question": "Which Indian state borders Nepal to the west?",
+    "options": ["Bihar", "Uttarakhand", "Sikkim", "West Bengal"],
+    "correctAnswer": "Uttarakhand",
+    "section": "Geography"
+  },
+  {
+    "question": "Which Indian states border Nepal to the east?",
+    "options": [
+      "Bihar and Uttar Pradesh",
+      "Uttarakhand",
+      "Punjab",
+      "West Bengal and Sikkim"
+    ],
+    "correctAnswer": "West Bengal and Sikkim",
+    "section": "Geography"
+  },
+  {
+    "question": "Nepal is bordered to the north by which region?",
+    "options": [
+      "Uttarakhand, India",
+      "Bihar, India",
+      "Tibet Autonomous Region of China",
+      "Sikkim, India"
+    ],
+    "correctAnswer": "Tibet Autonomous Region of China",
+    "section": "Geography"
+  },
+  {
+    "question": "Nepal's standard time is determined based on which longitude?",
+    "options": [
+      "82° 30' E longitude",
+      "86° 15' E longitude",
+      "88° 12' E longitude",
+      "80° 04' E longitude"
+    ],
+    "correctAnswer": "86° 15' E longitude",
+    "section": "Geography"
+  },
+  {
+    "question": "Through which mountain does the 86° 15' East longitude pass?",
+    "options": [
+      "Mt. Everest",
+      "Mt. Kanchenjunga",
+      "Gaurishankar Mountain",
+      "Mt. Dhaulagiri"
+    ],
+    "correctAnswer": "Gaurishankar Mountain",
+    "section": "Geography"
+  },
+  {
+    "question": "In which district is Gaurishankar Mountain, through which Nepal's standard time longitude passes, located?",
+    "options": ["Solukhumbu", "Dolakha", "Taplejung", "Mustang"],
+    "correctAnswer": "Dolakha",
+    "section": "Geography"
+  },
+  {
+    "question": "How many hours and minutes ahead of Greenwich Mean Time (GMT) is Nepal Standard Time?",
+    "options": ["4 hours 45 minutes", "5 hours 45 minutes", "6 hours 30 minutes", "5 hours 30 minutes"],
+    "correctAnswer": "5 hours 45 minutes",
+    "section": "Geography"
+  },
+  {
+    "question": "From which B.S. date was Nepal's standard time implemented?",
+    "options": [
+      "B.S. 2040 Baisakh 1",
+      "B.S. 2042 Baisakh 1",
+      "B.S. 2045 Baisakh 1",
+      "B.S. 2035 Baisakh 1"
+    ],
+    "correctAnswer": "B.S. 2042 Baisakh 1",
+    "section": "History"
+  },
+  {
+    "question": "How many of the world's 14 highest peaks (above 8,000 meters) are located in Nepal?",
+    "options": ["14", "6", "8", "10"],
+    "correctAnswer": "8",
+    "section": "Geography"
+  },
+  {
+    "question": "Approximately how many peaks above 6,000 meters are there in Nepal?",
+    "options": ["More than 500", "More than 800", "More than 1,300", "More than 2,000"],
+    "correctAnswer": "More than 1,300",
+    "section": "Geography"
+  },
+  {
+    "question": "How many peaks above 6,000 meters are found in the Mustang region alone?",
+    "options": ["Approximately 100", "Approximately 200", "Approximately 301", "Approximately 500"],
+    "correctAnswer": "Approximately 301",
+    "section": "Geography"
+  },
+  {
+    "question": "Which are the major river systems in Nepal?",
+    "options": [
+      "Ganges, Yamuna, and Brahmaputra",
+      "Koshi, Gandaki, and Karnali",
+      "Indus, Jhelum, and Ravi",
+      "Mechi, Mahakali, and Rapti"
+    ],
+    "correctAnswer": "Koshi, Gandaki, and Karnali",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a famous beautiful lake in Nepal?",
+    "options": ["Dal Lake", "Phewa Lake", "Loktak Lake", "Chilika Lake"],
+    "correctAnswer": "Phewa Lake",
+    "section": "Geography"
+  },
+  {
+    "question": "Which climate type is NOT found in Nepal?",
+    "options": ["Tropical", "Tundra", "Taiga", "Mediterranean"],
+    "correctAnswer": "Mediterranean",
+    "section": "Geography"
+  },
+  {
+    "question": "Globally, Nepal is famously known as the country of which mountain?",
+    "options": ["K2", "Kanchenjunga", "Mt. Everest (Sagarmatha)", "Dhaulagiri"],
+    "correctAnswer": "Mt. Everest (Sagarmatha)",
+    "section": "Geography"
+  },
+  {
+    "question": "For being the birthplace of Gautam Buddha, Nepal is globally known for which place?",
+    "options": ["Kapilvastu", "Lumbini", "Gorkha", "Janakpur"],
+    "correctAnswer": "Lumbini",
+    "section": "Culture"
+  },
+  {
+    "question": "Besides Gautam Buddha, Nepal is also known as the birthplace of which mythological figure?",
+    "options": ["Radha", "Parvati", "Sita", "Draupadi"],
+    "correctAnswer": "Sita",
+    "section": "Culture"
+  },
+  {
+    "question": "Nepal is internationally recognized for having a unique national flag of which shape?",
+    "options": ["Square", "Rectangular", "Triangular", "Non-rectangular"],
+    "correctAnswer": "Non-rectangular",
+    "section": "Culture"
+  },
+  {
+    "question": "Based on physical structure, Nepal is divided into how many primary geographical regions from north to south?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Three",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the three primary geographical regions of Nepal?",
+    "options": [
+      "Mountain, Hill, and Terai",
+      "Himalayan, Hilly, and Terai",
+      "Alpine, Temperate, and Tropical",
+      "High Himalaya, Mid-Hill, and Siwalik"
+    ],
+    "correctAnswer": "Himalayan, Hilly, and Terai",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of Nepal's total land area is covered by the Himalayan Region?",
+    "options": ["19.7 percent", "15 percent", "29.5 percent", "8.5 percent"],
+    "correctAnswer": "15 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the key physical features of the Himalayan Region?",
+    "options": [
+      "Flat plains and alluvial soil",
+      "Low hills and wide valleys",
+      "High mountains, steep slopes, deep valleys, and gorges",
+      "Sand, gravel, and porous land"
+    ],
+    "correctAnswer": "High mountains, steep slopes, deep valleys, and gorges",
+    "section": "Geography"
+  },
+  {
+    "question": "Which type of rock is found in the Himalayan Region?",
+    "options": ["Sandstone", "Alluvial soil", "Granite", "Phyllite"],
+    "correctAnswer": "Granite",
+    "section": "Geography"
+  },
+  {
+    "question": "The Himalayan Region is situated at an approximate elevation of how much above sea level?",
+    "options": [
+      "1,000 meters and above",
+      "2,000 meters and above",
+      "3,000 meters and above",
+      "5,000 meters and above"
+    ],
+    "correctAnswer": "3,000 meters and above",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the North-South width range of the Himalayan Region?",
+    "options": [
+      "75 km to 125 km",
+      "25 km to 50 km",
+      "100 km to 150 km",
+      "10 km to 30 km"
+    ],
+    "correctAnswer": "25 km to 50 km",
+    "section": "Geography"
+  },
+  {
+    "question": "The Himalayan Region is subdivided into which three parts?",
+    "options": [
+      "Chure, Mahabharat, and Mid-land",
+      "Bhabar, Terai, and Dun",
+      "Main Himalayas, Inner Himalayas, and Border Himalayas",
+      "Western, Central, and Eastern Himalayas"
+    ],
+    "correctAnswer": "Main Himalayas, Inner Himalayas, and Border Himalayas",
+    "section": "Geography"
+  },
+  {
+    "question": "Approximately how many famous mountain ranges (Himshrunkhala) are there in the Nepal Himalayan section?",
+    "options": ["14", "21", "28", "31"],
+    "correctAnswer": "28",
+    "section": "Geography"
+  },
+  {
+    "question": "From which range to which range do the 28 famous mountain ranges of Nepal extend?",
+    "options": [
+      "Api to Saipal",
+      "Dhaulagiri to Annapurna",
+      "Kanchenjunga range to the Gurans range",
+      "Langtang to Gaurishankar"
+    ],
+    "correctAnswer": "Kanchenjunga range to the Gurans range",
+    "section": "Geography"
+  },
+  {
+    "question": "Where are most of the 28 famous mountain ranges of Nepal located?",
+    "options": [
+      "In the central part of Nepal",
+      "In the border areas of Tibet (China)",
+      "South of the Mahabharat range",
+      "In the Terai region"
+    ],
+    "correctAnswer": "In the border areas of Tibet (China)",
+    "section": "Geography"
+  },
+  {
+    "question": "What type of peaks does the Main Himalayan range contain?",
+    "options": [
+      "Peaks below 6,000 meters",
+      "Peaks above 8,000 meters",
+      "Volcanic peaks",
+      "Peaks in the rain-shadow area"
+    ],
+    "correctAnswer": "Peaks above 8,000 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "How many peaks above 6,000 meters are there in the greater Himalayan range south of the border?",
+    "options": ["1,311", "1,200", "1,400", "1,500"],
+    "correctAnswer": "1,311",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the name of the world's highest peak, located in Nepal?",
+    "options": ["K2", "Kanchenjunga", "Mt. Everest (Sagarmatha)", "Lhotse"],
+    "correctAnswer": "Mt. Everest (Sagarmatha)",
+    "section": "Geography"
+  },
+  {
+    "question": "Which mountain peak in Nepal is the world's third highest?",
+    "options": ["Makalu", "Dhaulagiri", "Kanchenjunga", "Cho Oyu"],
+    "correctAnswer": "Kanchenjunga",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is NOT a major peak in Nepal?",
+    "options": ["Lhotse", "Makalu", "Manaslu", "Nanga Parbat"],
+    "correctAnswer": "Nanga Parbat",
+    "section": "Geography"
+  },
+  {
+    "question": "What does the Inner Himalayan region consist of?",
+    "options": [
+      "Low-lying tropical forests",
+      "High-altitude valleys (Bhot valleys)",
+      "Flat alluvial plains",
+      "Coastal areas"
+    ],
+    "correctAnswer": "High-altitude valleys (Bhot valleys)",
+    "section": "Geography"
+  },
+
+
+
+
+
+  {
+    "question": "Which of the following is an example of an Inner Himalayan valley?",
+    "options": ["Kathmandu Valley", "Humla Valley", "Chitwan Valley", "Surkhet Valley"],
+    "correctAnswer": "Humla Valley",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the elevation range of Inner Himalayan valleys?",
+    "options": ["60 meters to 600 meters", "300 meters to 3,000 meters", "2,400 meters to 5,000 meters", "3,000 meters to 8,000 meters"],
+    "correctAnswer": "2,400 meters to 5,000 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "Besides high-altitude valleys, what other feature does the Inner Himalayan region contain?",
+    "options": ["Large alluvial fans", "Deep gorges and river basins", "Extensive grasslands", "Coastal plains"],
+    "correctAnswer": "Deep gorges and river basins",
+    "section": "Geography"
+  },
+  {
+    "question": "Which districts lie in the rain-shadow area of the Inner Himalayas?",
+    "options": ["Jhapa, Morang, and Sunsari", "Kathmandu, Lalitpur, and Bhaktapur", "Humla, Jumla, and Mustang", "Banke, Bardiya, and Kailali"],
+    "correctAnswer": "Humla, Jumla, and Mustang",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the characteristic of the climate in the rain-shadow area of the Inner Himalayas?",
+    "options": ["Very wet", "Dry", "Tropical humid", "Monsoon type"],
+    "correctAnswer": "Dry",
+    "section": "Geography"
+  },
+  {
+    "question": "How much rainfall does the rain-shadow area of the Inner Himalayas receive?",
+    "options": ["Very high rainfall", "Moderate rainfall", "Very little rainfall", "Seasonal rainfall only"],
+    "correctAnswer": "Very little rainfall",
+    "section": "Geography"
+  },
+  {
+    "question": "The Border Himalayas, located in the rain-shadow area, resemble which geographical feature?",
+    "options": ["A tropical forest", "A cold desert", "A coastal plain", "A fertile valley"],
+    "correctAnswer": "A cold desert",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a significant high mountain pass in the Border Himalayas?",
+    "options": ["Khyber Pass", "Nangpa Pass", "Bhor Ghat", "Pal Ghat"],
+    "correctAnswer": "Nangpa Pass",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of Nepal's land is covered by the High Mountain region?",
+    "options": ["15 percent", "29.5 percent", "12.7 percent", "19.7 percent"],
+    "correctAnswer": "19.7 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the nature of valleys in the High Mountain region?",
+    "options": ["Dried up", "Glaciated", "Flooded", "Urbanized"],
+    "correctAnswer": "Glaciated",
+    "section": "Geography"
+  },
+  {
+    "question": "What landform do river gradients create in the High Mountain region?",
+    "options": ["Deltas", "Canyons", "Meanders", "Oxbow lakes"],
+    "correctAnswer": "Canyons",
+    "section": "Geography"
+  },
+  {
+    "question": "In the High Mountain region, the elevation difference between valley bases and ridge tops can exceed how many meters?",
+    "options": ["500 meters", "1,000 meters", "2,000 meters", "3,500 meters"],
+    "correctAnswer": "2,000 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "How many types of vegetation can a single slope in the High Mountain region support?",
+    "options": ["One type", "Two types", "Up to four types (Tropical to Cool Temperate)", "Alpine only"],
+    "correctAnswer": "Up to four types (Tropical to Cool Temperate)",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of the High Mountain region is not suitable for farming?",
+    "options": ["34 percent", "16 percent", "50 percent", "73 percent"],
+    "correctAnswer": "50 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of land in the High Mountain region has thin, inadequate soil for farming?",
+    "options": ["50 percent", "34 percent", "16 percent", "24 percent"],
+    "correctAnswer": "34 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of land in the High Mountain region can sustain farming?",
+    "options": ["50 percent", "34 percent", "16 percent", "10 percent"],
+    "correctAnswer": "16 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "Out of the farmable land in the High Mountain region, what percentage is farmed well?",
+    "options": ["40 percent", "50 percent", "60 percent", "70 percent"],
+    "correctAnswer": "40 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "How many districts are there in the Himalayan Region?",
+    "options": ["18", "21", "28", "16"],
+    "correctAnswer": "21",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a Himalayan district?",
+    "options": ["Ilam", "Dang", "Mustang", "Jhapa"],
+    "correctAnswer": "Mustang",
+    "section": "Geography"
+  },
+  {
+    "question": "According to the 2078 B.S. census, what percentage of Nepal's population lives in the Himalayan Region?",
+    "options": ["40.3 percent", "53.6 percent", "6.08 percent", "10.3 percent"],
+    "correctAnswer": "6.08 percent",
+    "section": "Demography"
+  },
+  {
+    "question": "What type of vegetation is typically found at elevations of 4,000m to 5,000m in the Himalayan region?",
+    "options": ["Tall trees", "Dense forests", "Low shrubbery and herbs", "Tropical grasses"],
+    "correctAnswer": "Low shrubbery and herbs",
+    "section": "Geography"
+  },
+  {
+    "question": "In which regions can natural vegetation be found up to 2,800m due to specific environmental factors?",
+    "options": ["Kathmandu and Pokhara", "Mustang and Dolpa", "Jhapa and Morang", "Banke and Bardiya"],
+    "correctAnswer": "Mustang and Dolpa",
+    "section": "Geography"
+  },
+  {
+    "question": "Approximately what percentage of the High Himalayan region is suitable for monsoon grazing?",
+    "options": ["5 percent", "12 percent", "20 percent", "25 percent"],
+    "correctAnswer": "12 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What is a core requirement to protect grass regrowth from overgrazing in the High Himalayan region?",
+    "options": ["Complete ban on grazing", "Manageable grazing", "Increasing livestock", "Using chemical fertilizers"],
+    "correctAnswer": "Manageable grazing",
+    "section": "Geography"
+  },
+  {
+    "question": "How much land in the High Himalayas is suitable for cultivation based on soil and climate?",
+    "options": ["About 10 percent", "About 5 percent", "Less than one percent", "About 15 percent"],
+    "correctAnswer": "Less than one percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What makes marketing of agricultural products difficult in the Himalayas?",
+    "options": ["High production cost", "Lack of transportation", "Low demand", "Government policy"],
+    "correctAnswer": "Lack of transportation",
+    "section": "Geography"
+  },
+  {
+    "question": "The Hilly Region is located between which two regions?",
+    "options": ["Terai in the north and Himalayas in the south", "Himalayas to the north and Terai to the south", "India to the north and China to the south", "Chure to the north and Mahabharat to the south"],
+    "correctAnswer": "Himalayas to the north and Terai to the south",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following physical features is found in the Hilly Region?",
+    "options": ["Dun valleys", "High peaks above 8,000m", "Flat uplands (Tars)", "Bhabar zone"],
+    "correctAnswer": "Flat uplands (Tars)",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the elevation range of the Hilly Region?",
+    "options": ["60 meters to 600 meters", "300 meters to 3,000 meters", "2,400 meters to 5,000 meters", "Below 300 meters"],
+    "correctAnswer": "300 meters to 3,000 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the North-South width range of the Hilly Region?",
+    "options": ["25 km to 50 km", "10 km to 25 km", "75 km to 125 km", "100 km to 150 km"],
+    "correctAnswer": "75 km to 125 km",
+    "section": "Geography"
+  },
+  {
+    "question": "The Hilly Region covers the largest portion of Nepal's land area. Because of this, Nepal is known as what?",
+    "options": ["A Terai Country", "A Hilly Country", "A Himalayan Country", "A Plain Country"],
+    "correctAnswer": "A Hilly Country",
+    "section": "Geography"
+  },
+  {
+    "question": "Which rock type is found in the Hilly Region?",
+    "options": ["Limestone only", "Alluvial soil", "Phyllite", "Granite only"],
+    "correctAnswer": "Phyllite",
+    "section": "Geography"
+  },
+  {
+    "question": "How many districts are there in the Hilly Region?",
+    "options": ["21", "18", "28", "16"],
+    "correctAnswer": "28",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a Hilly district?",
+    "options": ["Dolpa", "Panchthar", "Saptari", "Rasuwa"],
+    "correctAnswer": "Panchthar",
+    "section": "Geography"
+  },
+  {
+    "question": "According to the 2078 B.S. census, what percentage of the population lives in the Hilly Region?",
+    "options": ["53.6 percent", "6.08 percent", "40.3 percent", "10.3 percent"],
+    "correctAnswer": "40.3 percent",
+    "section": "Demography"
+  },
+  {
+    "question": "The Hilly Region is divided into which three parts?",
+    "options": ["Main Himalaya, Inner Himalaya, Border Himalaya", "Chure Range, Mahabharat Range, and Mid-land", "Bhabar, Terai, and Dun", "Eastern, Central, and Western"],
+    "correctAnswer": "Chure Range, Mahabharat Range, and Mid-land",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the southernmost mountain range of Nepal?",
+    "options": ["Mahabharat Range", "Himalayan Range", "Chure Range", "Mid-land Range"],
+    "correctAnswer": "Chure Range",
+    "section": "Geography"
+  },
+  {
+    "question": "When did the Chure Range develop in relation to the main Himalayan range?",
+    "options": ["Much earlier", "At the same time", "Much later", "It is unrelated"],
+    "correctAnswer": "Much later",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the elevation range of the Chure Range?",
+    "options": ["300m to 3,000m", "610m to 1,872m", "2,400m to 5,000m", "60m to 600m"],
+    "correctAnswer": "610m to 1,872m",
+    "section": "Geography"
+  },
+  {
+    "question": "The Chure Range is also known by which other name?",
+    "options": ["Mahabharat Range", "Himalayan Range", "Siwalik Range", "Mid-Hill Range"],
+    "correctAnswer": "Siwalik Range",
+    "section": "Geography"
+  },
+  {
+    "question": "The Chure Range is referred to as which of the following?",
+    "options": ["Inner Himalayas", "Outer Himalayas", "Border Himalayas", "Trans Himalayas"],
+    "correctAnswer": "Outer Himalayas",
+    "section": "Geography"
+  },
+  {
+    "question": "The Chure Range is the newest mountain range in which country?",
+    "options": ["India", "China", "Nepal", "Bhutan"],
+    "correctAnswer": "Nepal",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the elevation pattern of the Chure Range from west to east?",
+    "options": ["Uniform throughout", "Higher in the east and lower in the west", "Higher in the west and lower in the east", "Irregular with no pattern"],
+    "correctAnswer": "Higher in the west and lower in the east",
+    "section": "Geography"
+  },
+  {
+    "question": "The Chure Range extends as a distinct series from the Mahakali River to which river?",
+    "options": ["Gandaki River", "Karnali River", "Koshi River", "Bagmati River"],
+    "correctAnswer": "Koshi River",
+    "section": "Geography"
+  },
+  {
+    "question": "East of the Koshi River, the Chure Range exists as isolated hills in which two districts?",
+    "options": ["Sunsari and Saptari", "Morang and Jhapa", "Ilam and Panchthar", "Dhanusha and Mahottari"],
+    "correctAnswer": "Morang and Jhapa",
+    "section": "Geography"
+  },
+  {
+    "question": "What type of land cover is predominant in large parts of the Chure Range?",
+    "options": ["Agricultural land", "Settlements", "Forests", "Grasslands"],
+    "correctAnswer": "Forests",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the synclinal valleys found in the Chure Range called?",
+    "options": ["Tars", "Beshi", "Dun", "Bhot"],
+    "correctAnswer": "Dun",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is an example of a Dun valley in the Chure region?",
+    "options": ["Kathmandu Valley", "Pokhara Valley", "Dang Valley", "Trishuli Valley"],
+    "correctAnswer": "Dang Valley",
+    "section": "Geography"
+  },
+  {
+    "question": "What type of climate is found in the Chure region?",
+    "options": ["Tundra", "Alpine", "Temperate", "Sub-tropical"],
+    "correctAnswer": "Sub-tropical",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of Nepal's land does the Chure region cover?",
+    "options": ["19.7 percent", "12.7 percent", "8.5 percent", "15 percent"],
+    "correctAnswer": "12.7 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the elevation difference within Chure watersheds?",
+    "options": ["More than 1,500 meters", "Between 700 and 1,000 meters", "Less than 700 meters", "Approximately 2,000 meters"],
+    "correctAnswer": "Less than 700 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "What is a key characteristic of the soil in the Chure region regarding water?",
+    "options": ["It holds water very well", "It is unable to hold rainwater", "It becomes swampy", "It has high clay content"],
+    "correctAnswer": "It is unable to hold rainwater",
+    "section": "Geography"
+  },
+  {
+    "question": "What natural disaster commonly occurs in Chure rivers during rainfall?",
+    "options": ["Landslides", "Flash floods", "Droughts", "Avalanches"],
+    "correctAnswer": "Flash floods",
+    "section": "Geography"
+  },
+  {
+    "question": "How is the Chure Range considered from an environmental perspective?",
+    "options": ["Very stable", "Highly fertile", "Environmentally very sensitive", "Unsuitable for any life"],
+    "correctAnswer": "Environmentally very sensitive",
+    "section": "Geography"
+  },
+  {
+    "question": "What controls the mountainous terrain of the Siwalik (Chure) region?",
+    "options": ["Deep soil", "Surface stones", "Dense vegetation", "Glacial deposits"],
+    "correctAnswer": "Surface stones",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the geological stability of the Chure range?",
+    "options": ["Very strong", "Weak and unstable", "Moderately stable", "Volcanic"],
+    "correctAnswer": "Weak and unstable",
+    "section": "Geography"
+  },
+  {
+    "question": "More than what percentage of Chure land is too steep and difficult for farming?",
+    "options": ["50 percent", "24 percent", "73 percent", "87 percent"],
+    "correctAnswer": "73 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "Approximately what percentage of land in the Siwalik (Chure) region is cultivable?",
+    "options": ["73 percent", "50 percent", "24 percent", "34 percent"],
+    "correctAnswer": "24 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "How does the soil in the Dun (Inner Terai) valleys compare to that of the Main Terai?",
+    "options": ["It is the same", "It is more fertile", "It is different", "It is less porous"],
+    "correctAnswer": "It is different",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the production level of fruits and vegetables in the Chure region?",
+    "options": ["Very high", "Moderate", "Less", "No production at all"],
+    "correctAnswer": "Less",
+    "section": "Geography"
+  },
+  {
+    "question": "What has encroachment in the Chure region directly led to?",
+    "options": ["Increased fertility", "More rainfall", "Deforestation and soil erosion", "Formation of new valleys"],
+    "correctAnswer": "Deforestation and soil erosion",
+    "section": "Environment"
+  },
+  {
+    "question": "What is the name of the long belt located south of the Siwalik region?",
+    "options": ["Terai", "Mahabharat", "Mid-land", "Bhabar"],
+    "correctAnswer": "Bhabar",
+    "section": "Geography"
+  },
+  {
+    "question": "What materials is the Bhabar region composed of?",
+    "options": ["Fertile alluvial soil only", "Hard rocks", "Sand, gravel, stones, and porous materials", "Clay and silt"],
+    "correctAnswer": "Sand, gravel, stones, and porous materials",
+    "section": "Geography"
+  },
+  {
+    "question": "What type of forest is found in the Bhabar region?",
+    "options": ["Pine forests", "Sal forests", "Mangrove forests", "Deciduous forests"],
+    "correctAnswer": "Sal forests",
+    "section": "Geography"
+  },
+  {
+    "question": "The river-deposited plains in deep valleys are part of which larger plains?",
+    "options": ["Terai Plains", "Gangetic Plains", "Himalayan Plains", "Bhabar Plains"],
+    "correctAnswer": "Gangetic Plains",
+    "section": "Geography"
+  },
+  {
+    "question": "Where is the Mahabharat Range located in relation to the Chure Range?",
+    "options": ["South of the Chure Range", "East of the Chure Range", "North of the Chure Range", "West of the Chure Range"],
+    "correctAnswer": "North of the Chure Range",
+    "section": "Geography"
+  },
+  {
+    "question": "The Mahabharat Range is often called by which name?",
+    "options": ["The Himalayan Foothills", "The Hill Station of Nepal", "The Granary of Nepal", "The Outer Himalayas"],
+    "correctAnswer": "The Hill Station of Nepal",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the maximum elevation of the Mahabharat Range, in feet?",
+    "options": ["8,000 feet", "10,000 feet", "12,000 feet", "15,000 feet"],
+    "correctAnswer": "12,000 feet",
+    "section": "Geography"
+  },
+  {
+    "question": "Famous river gorges like Chisapani (Karnali River) and Devghat (Kaligandaki River) are located in which range?",
+    "options": ["Chure Range", "Himalayan Range", "Mahabharat Range", "Mid-land Range"],
+    "correctAnswer": "Mahabharat Range",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a prominent peak in the Mahabharat range?",
+    "options": ["Mt. Everest", "Phulchoki", "Mt. Kanchenjunga", "Api"],
+    "correctAnswer": "Phulchoki",
+    "section": "Geography"
+  },
+  {
+    "question": "How is the climate described in the Mahabharat Range?",
+    "options": ["Hot and humid", "Cold and dry", "Healthy and pleasant", "Extreme and arid"],
+    "correctAnswer": "Healthy and pleasant",
+    "section": "Geography"
+  },
+  {
+    "question": "The Mid-land (Mid-Hills) region is located between which two ranges?",
+    "options": ["Chure and Mahabharat", "Mahabharat and Himalayan", "Himalayan and Trans-Himalayan", "Siwalik and Chure"],
+    "correctAnswer": "Mahabharat and Himalayan",
+    "section": "Geography"
+  },
+  {
+    "question": "What does the Mid-land region consist of?",
+    "options": ["Only steep slopes", "Only river basins", "Large Tars, river basins (Beshi), and valleys", "Only high peaks"],
+    "correctAnswer": "Large Tars, river basins (Beshi), and valleys",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a major valley in the Mid-land region?",
+    "options": ["Chitwan Valley", "Dang Valley", "Kathmandu Valley", "Surkhet Valley"],
+    "correctAnswer": "Kathmandu Valley",
+    "section": "Geography"
+  },
+  {
+    "question": "Which rivers have created large fertile valleys in the Mid-land region?",
+    "options": ["Koshi, Gandaki, Karnali", "Mechi, Kankai, Kamala", "Chameliya, Trishuli, Sunkoshi", "Babai, Mohana, Rapti"],
+    "correctAnswer": "Chameliya, Trishuli, Sunkoshi",
+    "section": "Geography"
+  },
+  {
+    "question": "Tumlingtar, a famous Tar, is located in which district?",
+    "options": ["Okhaldhunga", "Udayapur", "Sankhuwasabha", "Kavrepalanchok"],
+    "correctAnswer": "Sankhuwasabha",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of Nepal's land does the Mid-Hills region cover?",
+    "options": ["15 percent", "19.7 percent", "29.5 percent", "12.7 percent"],
+    "correctAnswer": "29.5 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the climate of the Mid-Hills suitable for?",
+    "options": ["Monsoon grazing only", "Year-round agriculture", "Only fruit cultivation", "Only animal husbandry"],
+    "correctAnswer": "Year-round agriculture",
+    "section": "Geography"
+  },
+  {
+    "question": "How are temperatures described in the Mid-Hills?",
+    "options": ["Extreme", "Moderate", "Very cold", "Very hot"],
+    "correctAnswer": "Moderate",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of cultivable land in the Mid-Hills consists of mountain slopes?",
+    "options": ["50 percent", "73 percent", "87 percent", "95 percent"],
+    "correctAnswer": "87 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the established farming technique in the Mid-Hills?",
+    "options": ["Slash and burn", "Terrace farming", "Irrigation farming", "Plantation farming"],
+    "correctAnswer": "Terrace farming",
+    "section": "Geography"
+  },
+  {
+    "question": "Which rock type is found in the Mid-Hills?",
+    "options": ["Alluvial soil", "Basalt", "Phyllites", "Sandstone only"],
+    "correctAnswer": "Phyllites",
+    "section": "Geography"
+  },
+  {
+    "question": "What is located on the southern edge of the Mid-Hills?",
+    "options": ["Chure Range", "Terai Plains", "Uplifted mountains like the Mahabharat Lekh", "Inner Terai valleys"],
+    "correctAnswer": "Uplifted mountains like the Mahabharat Lekh",
+    "section": "Geography"
+  },
+  {
+    "question": "What rock type is found in the southern Mid-Hills?",
+    "options": ["Weathered granite", "Glacial till", "Alluvial sand", "Volcanic ash"],
+    "correctAnswer": "Weathered granite",
+    "section": "Geography"
+  },
+  {
+    "question": "What type of slopes with thin soil in the Mid-Hills are not suitable for farming?",
+    "options": ["Gentle slopes (<15 degrees)", "Moderate slopes (15-25 degrees)", "Steep slopes (>35 degrees)", "All slopes are suitable"],
+    "correctAnswer": "Steep slopes (>35 degrees)",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is an ethnic group found in the Hilly region of Nepal?",
+    "options": ["Tharu", "Kirat (Rai, Limbu)", "Dhimal", "Madhesi"],
+    "correctAnswer": "Kirat (Rai, Limbu)",
+    "section": "Culture"
+  },
+  {
+    "question": "The Hilly region of Nepal supports the cultivation of which of the following?",
+    "options": ["Rice only", "Fruits and herbal plants", "Jute and sugarcane", "Wheat only"],
+    "correctAnswer": "Fruits and herbal plants",
+    "section": "Geography"
+  },
+  {
+    "question": "On which slopes of the hills are settlements and farming more common in the Hilly region?",
+    "options": ["Northern slopes", "Southern slopes", "Eastern slopes", "Western slopes"],
+    "correctAnswer": "Southern slopes",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a major town in the Hilly region?",
+    "options": ["Biratnagar", "Nepalgunj", "Ilam", "Janakpur"],
+    "correctAnswer": "Ilam",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of Hilly settlements are located below 1,000 meters?",
+    "options": ["59.90 percent", "19.99 percent", "16.37 percent", "10.30 percent"],
+    "correctAnswer": "16.37 percent",
+    "section": "Demography"
+  },
+  {
+    "question": "What percentage of Hilly settlements are located between 1,001 and 2,000 meters?",
+    "options": ["16.37 percent", "59.90 percent", "19.99 percent", "40.30 percent"],
+    "correctAnswer": "59.90 percent",
+    "section": "Demography"
+  },
+  {
+    "question": "What percentage of Hilly settlements are located between 2,001 and 3,000 meters?",
+    "options": ["59.90 percent", "19.99 percent", "16.37 percent", "6.08 percent"],
+    "correctAnswer": "19.99 percent",
+    "section": "Demography"
+  },
+  {
+    "question": "In which elevation range is the highest concentration of Hilly settlements found?",
+    "options": ["Below 1,000 meters", "Between 1,001 and 2,000 meters", "Between 2,001 and 3,000 meters", "Above 3,000 meters"],
+    "correctAnswer": "Between 1,001 and 2,000 meters",
+    "section": "Demography"
+  },
+  {
+    "question": "For what type of production is the Hilly region primarily known?",
+    "options": ["Fish and meat", "Fruit and food grain", "Timber and coal", "Minerals and ores"],
+    "correctAnswer": "Fruit and food grain",
+    "section": "Geography"
+  },
+  {
+    "question": "Despite being a productive area for crops like rice and maize, why does the Hilly region face food shortages?",
+    "options": ["Due to pests and diseases", "Due to lack of fertile land", "Due to overpopulation", "Due to lack of irrigation"],
+    "correctAnswer": "Due to lack of fertile land",
+    "section": "Geography"
+  },
+  {
+    "question": "How many districts does Kathmandu Valley consist of?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Three",
+    "section": "Geography"
+  },
+  {
+    "question": "Which three districts make up Kathmandu Valley?",
+    "options": ["Kathmandu, Lalitpur, and Bhaktapur", "Kathmandu, Kaski, and Lamjung", "Lalitpur, Makwanpur, and Dhading", "Bhaktapur, Kavre, and Nuwakot"],
+    "correctAnswer": "Kathmandu, Lalitpur, and Bhaktapur",
+    "section": "Geography"
+  },
+  {
+    "question": "At what approximate elevation is Kathmandu Valley situated?",
+    "options": ["819 meters", "1,337 meters", "1,554 meters", "871 meters"],
+    "correctAnswer": "1,337 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "According to the 2078 B.S. census, what percentage of Nepal's total population lives in the Kathmandu Valley?",
+    "options": ["40.3 percent", "53.6 percent", "10.3 percent", "6.08 percent"],
+    "correctAnswer": "10.3 percent",
+    "section": "Demography"
+  },
+  {
+    "question": "According to Table 1.3, at what elevation is Trishuli Valley located and in which district?",
+    "options": ["1,337m; Kathmandu", "548m; Nuwakot", "819m; Kaski", "663m; Dang"],
+    "correctAnswer": "548m; Nuwakot",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.3, which valley in the Hilly Region is located at an elevation of 819 meters in Kaski district?",
+    "options": ["Kathmandu", "Trishuli", "Pokhara", "Banepa"],
+    "correctAnswer": "Pokhara",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.3, which valley is located at an elevation of 871 meters in Kavrepalanchok district?",
+    "options": ["Pokhara", "Banepa", "Panchkhal", "Dang"],
+    "correctAnswer": "Panchkhal",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.3, Patan valley in Baitadi district is located at what elevation?",
+    "options": ["1,337m", "1,534m", "871m", "664m"],
+    "correctAnswer": "1,534m",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.3, Dang valley is located in which district and at what elevation?",
+    "options": ["Surkhet; 664m", "Dang; 663m", "Udayapur; 360m", "Dhading; 850m"],
+    "correctAnswer": "Dang; 663m",
+    "section": "Geography"
+  },
+  {
+    "question": "The Terai Region is the flat plain of Nepal extending from where to where?",
+    "options": ["Himalayas to the Indian border", "Hilly region to the Indian border", "Chure range to the Mahabharat range", "Bhabar region to the Chure region"],
+    "correctAnswer": "Hilly region to the Indian border",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the other name for the Terai region?",
+    "options": ["Pahad", "Himal", "Madhesh", "Dun"],
+    "correctAnswer": "Madhesh",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the width range of the Terai region?",
+    "options": ["75 km to 125 km", "25 km to 30 km", "10 km to 20 km", "50 km to 60 km"],
+    "correctAnswer": "25 km to 30 km",
+    "section": "Geography"
+  },
+  {
+    "question": "What geographical features form the northern boundary of the Terai?",
+    "options": ["Mahabharat range", "Himalayan range", "Bhabar and Chure regions", "Indian border"],
+    "correctAnswer": "Bhabar and Chure regions",
+    "section": "Geography"
+  },
+  {
+    "question": "How does the elevation of the Terai change from north to south?",
+    "options": ["It increases", "It decreases", "It remains constant", "It varies randomly"],
+    "correctAnswer": "It decreases",
+    "section": "Geography"
+  },
+  {
+    "question": "What type of climate is found in the Terai region?",
+    "options": ["Tundra", "Temperate", "Tropical (hot)", "Alpine"],
+    "correctAnswer": "Tropical (hot)",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the nature of the land in the Terai?",
+    "options": ["Mostly steep and sloping", "Mostly level and flat", "Mostly hilly and undulating", "Mostly rocky and barren"],
+    "correctAnswer": "Mostly level and flat",
+    "section": "Geography"
+  },
+  {
+    "question": "Until 1960, which ethnic group was the majority in the Terai region?",
+    "options": ["Brahmin", "Chhetri", "Tharu", "Newar"],
+    "correctAnswer": "Tharu",
+    "section": "Demography"
+  },
+  {
+    "question": "After the eradication of which disease did the Terai become a multi-ethnic region?",
+    "options": ["Cholera", "Smallpox", "Malaria", "Tuberculosis"],
+    "correctAnswer": "Malaria",
+    "section": "History"
+  },
+  {
+    "question": "What is the elevation range of the Terai?",
+    "options": ["300m to 3,000m", "60m to 600m", "2,400m to 5,000m", "610m to 1,872m"],
+    "correctAnswer": "60m to 600m",
+    "section": "Geography"
+  },
+  {
+    "question": "By which nickname is the Terai region known?",
+    "options": ["The Hill Station of Nepal", "The Country of Mountains", "The Granary of Nepal", "The Land of Lakes"],
+    "correctAnswer": "The Granary of Nepal",
+    "section": "Geography"
+  },
+  {
+    "question": "How many districts are there in the Terai Region?",
+    "options": ["21", "28", "18", "16"],
+    "correctAnswer": "18",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a Terai district?",
+    "options": ["Dolpa", "Rupandehi", "Gorkha", "Kaski"],
+    "correctAnswer": "Rupandehi",
+    "section": "Geography"
+  },
+  {
+    "question": "According to the 2078 B.S. census, what percentage of the population lives in the Terai?",
+    "options": ["40.3 percent", "6.08 percent", "53.6 percent", "10.3 percent"],
+    "correctAnswer": "53.6 percent",
+    "section": "Demography"
+  },
+  {
+    "question": "The Terai is divided into which three parts?",
+    "options": ["Eastern, Central, and Western", "Main Terai, Bhabar, and Inner Terai", "Himalayan, Hilly, and Terai", "Chure, Mahabharat, and Mid-land"],
+    "correctAnswer": "Main Terai, Bhabar, and Inner Terai",
+    "section": "Geography"
+  },
+  {
+    "question": "Which part of the Terai is the southernmost flatland that gradually slopes downward?",
+    "options": ["Bhabar", "Inner Terai", "Main Terai", "Dun"],
+    "correctAnswer": "Main Terai",
+    "section": "Geography"
+  },
+  {
+    "question": "What type of soil is the Main Terai composed of?",
+    "options": ["Sandy soil", "Fertile alluvial soil", "Rocky soil", "Laterite soil"],
+    "correctAnswer": "Fertile alluvial soil",
+    "section": "Geography"
+  },
+  {
+    "question": "Which ranges divide the Terai into Eastern, Central, and Western sections?",
+    "options": ["Mahabharat and Himalayan", "Someshwor and Dundwa", "Chure and Mahabharat", "Api and Saipal"],
+    "correctAnswer": "Someshwor and Dundwa",
+    "section": "Geography"
+  },
+  {
+    "question": "Where is the Bhabar region located?",
+    "options": ["South of the Main Terai", "At the foot of the Chure mountains and north of the Main Terai", "Within the Inner Terai valleys", "North of the Mahabharat range"],
+    "correctAnswer": "At the foot of the Chure mountains and north of the Main Terai",
+    "section": "Geography"
+  },
+  {
+    "question": "Up to what elevation does the Bhabar region reach?",
+    "options": ["600 meters", "1,872 meters", "380 meters", "3,000 meters"],
+    "correctAnswer": "380 meters",
+    "section": "Geography"
+  },
+
+  {
+    "question": "What is the width range of the Bhabar region?",
+    "options": ["25 km to 30 km", "75 km to 125 km", "12.8 km to 16 km", "32 km to 64 km"],
+    "correctAnswer": "12.8 km to 16 km",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of Nepal's total land area does the Bhabar region cover?",
+    "options": ["8.5 percent", "4.5 percent", "12.7 percent", "2.7 percent"],
+    "correctAnswer": "4.5 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the Inner Terai (Dun) composed of?",
+    "options": ["Small, round hills", "Large, flat, elongated valleys surrounded by mountains", "Narrow river gorges", "High altitude plateaus"],
+    "correctAnswer": "Large, flat, elongated valleys surrounded by mountains",
+    "section": "Geography"
+  },
+  {
+    "question": "Between which two ranges are the Inner Terai valleys located?",
+    "options": ["Mahabharat and Himalayan", "Chure and Mahabharat", "Siwalik and Chure", "Himalayan and Trans-Himalayan"],
+    "correctAnswer": "Chure and Mahabharat",
+    "section": "Geography"
+  },
+  {
+    "question": "Up to what elevation are the Inner Terai valleys situated?",
+    "options": ["610 meters", "380 meters", "1,872 meters", "3,000 meters"],
+    "correctAnswer": "610 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the typical dimensions of Inner Terai valleys?",
+    "options": ["885 km long, 193 km wide", "12.8 km to 16 km long and wide", "32 km to 64 km long and up to 16 km wide", "100 km to 150 km long and 50 km wide"],
+    "correctAnswer": "32 km to 64 km long and up to 16 km wide",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of Nepal's total land area does the Inner Terai cover?",
+    "options": ["4.5 percent", "12.7 percent", "8.5 percent", "15 percent"],
+    "correctAnswer": "8.5 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "The Inner Terai is divided into how many regions?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Four",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a region of the Inner Terai?",
+    "options": ["Western (Dang, Deukhuri)", "Northern (Humla, Jumla)", "Southern (Jhapa, Morang)", "Coastal (Kailali, Kanchanpur)"],
+    "correctAnswer": "Western (Dang, Deukhuri)",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.4, how many Himalayan districts are there?",
+    "options": ["28", "18", "21", "7"],
+    "correctAnswer": "21",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.4, how many Hilly districts are there?",
+    "options": ["21", "28", "18", "7"],
+    "correctAnswer": "28",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.4, which of the following is listed as an Inner Terai district?",
+    "options": ["Dolakha", "Udayapur", "Panchthar", "Siraha"],
+    "correctAnswer": "Udayapur",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.4, how many Terai districts are there?",
+    "options": ["21", "28", "18", "7"],
+    "correctAnswer": "18",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.4, how many districts are listed under Kathmandu Valley?",
+    "options": ["Three", "Four", "Five", "Seven"],
+    "correctAnswer": "Three",
+    "section": "Geography"
+  },
+  {
+    "question": "The Koshi River system is located between which two landmarks?",
+    "options": ["Dhaulagiri in the east and Vyas Himalaya in the west", "Langtang in the east and Dhaulagiri in the west", "Kanchenjunga in the east and Langtang (Gosainthan) in the west", "Api in the east and Saipal in the west"],
+    "correctAnswer": "Kanchenjunga in the east and Langtang (Gosainthan) in the west",
+    "section": "Geography"
+  },
+  {
+    "question": "What type of river is the Koshi?",
+    "options": ["Subsequent river", "Consequent river", "Antecedent river", "Resequent river"],
+    "correctAnswer": "Antecedent river",
+    "section": "Geography"
+  },
+  {
+    "question": "The Saptakoshi is formed by how many rivers?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "correctAnswer": "Seven",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is one of the seven rivers that form the Saptakoshi?",
+    "options": ["Kaligandaki", "Seti", "Arun", "Trishuli"],
+    "correctAnswer": "Arun",
+    "section": "Geography"
+  },
+  {
+    "question": "The Koshi is the ________ river in Nepal.",
+    "options": ["Longest", "Deepest", "Largest", "Smallest"],
+    "correctAnswer": "Largest",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total length of the Koshi River?",
+    "options": ["338 km", "507 km", "720 km", "885 km"],
+    "correctAnswer": "720 km",
+    "section": "Geography"
+  },
+  {
+    "question": "How much of the Koshi River's total length is within Nepal?",
+    "options": ["507 km", "338 km", "200 km", "720 km"],
+    "correctAnswer": "200 km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the average water flow capacity of the Koshi at Chotara?",
+    "options": ["1,316 cubic meters per second", "1,713 cubic meters per second", "1,500 cubic meters per second", "2,200 cubic meters per second"],
+    "correctAnswer": "1,500 cubic meters per second",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the estimated hydropower potential of the Koshi river system?",
+    "options": ["32,000 MW", "21,000 MW", "22,000 MW", "83,000 MW"],
+    "correctAnswer": "22,000 MW",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the approximate influence area of the Koshi river system?",
+    "options": ["42,000 square km", "33,000 square km", "60,000 square km", "1,48,000 square km"],
+    "correctAnswer": "60,000 square km",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest tributary of the Saptakoshi?",
+    "options": ["Tamakoshi", "Sunkoshi", "Arun", "Likhu"],
+    "correctAnswer": "Arun",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the smallest tributary of the Saptakoshi?",
+    "options": ["Arun", "Tamur", "Likhu", "Dudhkoshi"],
+    "correctAnswer": "Likhu",
+    "section": "Geography"
+  },
+  {
+    "question": "The Gandaki River system is located between which two landmarks?",
+    "options": ["Kanchenjunga in the east and Langtang in the west", "Dhaulagiri in the east and Vyas Himalaya in the west", "Langtang in the east and Dhaulagiri in the west", "Api in the east and Saipal in the west"],
+    "correctAnswer": "Langtang in the east and Dhaulagiri in the west",
+    "section": "Geography"
+  },
+  {
+    "question": "How many major tributaries does the Gandaki (Saptagandaki) have?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "correctAnswer": "Seven",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a major tributary of the Gandaki River?",
+    "options": ["Humla Karnali", "Mugu Karnali", "Kaligandaki", "Thuli Bheri"],
+    "correctAnswer": "Kaligandaki",
+    "section": "Geography"
+  },
+  {
+    "question": "After whom is the Gandaki River believed to be named?",
+    "options": ["Sage Gandav", "King Gandak", "Goddess Ganga", "Lord Shiva"],
+    "correctAnswer": "Sage Gandav",
+    "section": "Culture"
+  },
+  {
+    "question": "After passing Devghat in Chitwan, what is the Gandaki River known as?",
+    "options": ["Koshi River", "Karnali River", "Narayani River", "Bagmati River"],
+    "correctAnswer": "Narayani River",
+    "section": "Geography"
+  },
+  {
+    "question": "The Gandaki flows through which part of Nepal from north to south?",
+    "options": ["Eastern part", "Western part", "Central part", "Far-western part"],
+    "correctAnswer": "Central part",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the drainage area of the Gandaki River?",
+    "options": ["60,000 square km", "42,000 square km", "Over 33,000 square km", "1,48,000 square km"],
+    "correctAnswer": "Over 33,000 square km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total length of the Gandaki River?",
+    "options": ["507 km", "720 km", "338 km", "200 km"],
+    "correctAnswer": "338 km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the theoretical hydropower potential of the Gandaki river system?",
+    "options": ["22,000 MW", "21,000 MW", "32,000 MW", "83,000 MW"],
+    "correctAnswer": "21,000 MW",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest tributary of the Gandaki river system?",
+    "options": ["Trishuli", "Marsyangdi", "Kaligandaki", "Seti"],
+    "correctAnswer": "Kaligandaki",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the smallest tributary of the Gandaki river system?",
+    "options": ["Seti", "Madi", "Daraundi", "Budhigandaki"],
+    "correctAnswer": "Daraundi",
+    "section": "Geography"
+  },
+  {
+    "question": "The Gandaki is the ________ river in Nepal.",
+    "options": ["Longest", "Largest", "Deepest", "Shallowest"],
+    "correctAnswer": "Deepest",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the average water flow of the Gandaki River?",
+    "options": ["1,500 cubic meters per second", "1,316 cubic meters per second", "1,713 cubic meters per second", "2,000 cubic meters per second"],
+    "correctAnswer": "1,713 cubic meters per second",
+    "section": "Geography"
+  },
+  {
+    "question": "The Karnali River system is located between which two landmarks?",
+    "options": ["Langtang in the east and Dhaulagiri in the west", "Kanchenjunga in the east and Langtang in the west", "Dhaulagiri in the east and Vyas Himalaya in the west", "Api in the east and Saipal in the west"],
+    "correctAnswer": "Dhaulagiri in the east and Vyas Himalaya in the west",
+    "section": "Geography"
+  },
+  {
+    "question": "How many major tributaries does the Karnali (Saptakarnali) have?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "correctAnswer": "Seven",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a major tributary of the Karnali River system?",
+    "options": ["Trishuli", "Humla Karnali", "Arun", "Kaligandaki"],
+    "correctAnswer": "Humla Karnali",
+    "section": "Geography"
+  },
+  {
+    "question": "The Karnali is the ________ river in Nepal.",
+    "options": ["Deepest", "Largest", "Longest", "Smallest"],
+    "correctAnswer": "Longest",
+    "section": "Geography"
+  },
+  {
+    "question": "In India, the Karnali River is known by which name?",
+    "options": ["Ganges", "Yamuna", "Ghagra or Sarayu", "Brahmaputra"],
+    "correctAnswer": "Ghagra or Sarayu",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the approximate drainage area of the Karnali River?",
+    "options": ["33,000 square km", "60,000 square km", "42,000 square km", "1,48,000 square km"],
+    "correctAnswer": "42,000 square km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the length of the Karnali River within Nepal?",
+    "options": ["720 km", "338 km", "885 km", "507 km"],
+    "correctAnswer": "507 km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the estimated hydropower potential of the Karnali River?",
+    "options": ["21,000 MW", "22,000 MW", "32,000 MW", "83,000 MW"],
+    "correctAnswer": "32,000 MW",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the average water flow of the Karnali River?",
+    "options": ["1,713 cubic meters per second", "1,500 cubic meters per second", "1,316 cubic meters per second", "2,000 cubic meters per second"],
+    "correctAnswer": "1,316 cubic meters per second",
+    "section": "Geography"
+  },
+  {
+    "question": "The very cold and dry climate of the Himalayan region is known by which of the following names?",
+    "options": ["Tropical", "Temperate", "Tundra", "Subtropical"],
+    "correctAnswer": "Tundra",
+    "section": "Geography"
+  },
+  {
+    "question": "In which climate zone of the Himalayas does snowfall occur year-round?",
+    "options": ["Tropical", "Temperate", "Tundra", "Subtropical"],
+    "correctAnswer": "Tundra",
+    "section": "Geography"
+  },
+  {
+    "question": "Above what altitude does the temperature in the Himalayas remain below zero degrees Celsius?",
+    "options": ["3,000 meters", "4,000 meters", "5,000 meters", "6,000 meters"],
+    "correctAnswer": "5,000 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "What weather phenomenon occurs fiercely in the afternoon in high Himalayan regions?",
+    "options": ["Heavy rainfall", "Snowstorms", "Heatwaves", "Thunderstorms"],
+    "correctAnswer": "Snowstorms",
+    "section": "Geography"
+  },
+  {
+    "question": "The Himalayan climate zone is also referred to by which name?",
+    "options": ["The Green Valley", "The Himalayan Desert", "The Terai Plains", "The Hill Station"],
+    "correctAnswer": "The Himalayan Desert",
+    "section": "Geography"
+  },
+  {
+    "question": "Nepal's administrative structure consists of how many levels?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correctAnswer": "Three",
+    "section": "Politics"
+  },
+  {
+    "question": "What are the three levels of Nepal's administrative structure?",
+    "options": ["District, City, Village", "Sangh, Pradesh, and Staniya Tah", "Zone, District, Municipality", "Province, District, Local"],
+    "correctAnswer": "Sangh, Pradesh, and Staniya Tah",
+    "section": "Politics"
+  },
+  {
+    "question": "In the federal structure of Nepal, what is the highest unit called?",
+    "options": ["Pradesh", "Staniya Tah", "Sangh", "Gaunpalika"],
+    "correctAnswer": "Sangh",
+    "section": "Politics"
+  },
+  {
+    "question": "The federal government of Nepal is also known as?",
+    "options": ["Provincial Government", "Local Government", "Government of Nepal", "Central Secretariat"],
+    "correctAnswer": "Government of Nepal",
+    "section": "Politics"
+  },
+  {
+    "question": "In which schedule of the Constitution are the powers of the Federation listed?",
+    "options": ["Schedule 6", "Schedule 7", "Schedule 5", "Schedule 9"],
+    "correctAnswer": "Schedule 5",
+    "section": "Politics"
+  },
+  {
+    "question": "Concurrent powers of the Sangh and Pradesh are listed in which schedule?",
+    "options": ["Schedule 5", "Schedule 7", "Schedule 8", "Schedule 9"],
+    "correctAnswer": "Schedule 7",
+    "section": "Politics"
+  },
+  {
+    "question": "Concurrent powers of the Sangh, Pradesh, and Local Level are listed in which schedule?",
+    "options": ["Schedule 5", "Schedule 7", "Schedule 8", "Schedule 9"],
+    "correctAnswer": "Schedule 9",
+    "section": "Politics"
+  },
+  {
+    "question": "Who exercises the residual powers that are not listed in any schedule of the constitution?",
+    "options": ["Provincial Government", "Local Level", "Federal Government", "President"],
+    "correctAnswer": "Federal Government",
+    "section": "Politics"
+  },
+  {
+    "question": "In Nepal's federal system, how are Provinces defined?",
+    "options": ["Cultural zones", "Economic regions", "Geographical areas/units divided under the federal system", "Electoral constituencies"],
+    "correctAnswer": "Geographical areas/units divided under the federal system",
+    "section": "Politics"
+  },
+  {
+    "question": "Which schedule of the Constitution lists the 7 provinces and their districts?",
+    "options": ["Schedule 5", "Schedule 6", "Schedule 4", "Schedule 8"],
+    "correctAnswer": "Schedule 4",
+    "section": "Politics"
+  },
+  {
+    "question": "Koshi Province is bordered by West Bengal and Sikkim (India) to which direction?",
+    "options": ["North", "South", "East", "West"],
+    "correctAnswer": "East",
+    "section": "Geography"
+  },
+  {
+    "question": "Koshi Province is bordered by which Indian state to the south?",
+    "options": ["West Bengal", "Sikkim", "Bihar", "Uttar Pradesh"],
+    "correctAnswer": "Bihar",
+    "section": "Geography"
+  },
+  {
+    "question": "Koshi Province has how many districts?",
+    "options": ["8", "11", "13", "14"],
+    "correctAnswer": "14",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest district of Koshi Province by area?",
+    "options": ["Morang", "Sunsari", "Taplejung", "Jhapa"],
+    "correctAnswer": "Taplejung",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the smallest district of Koshi Province by area?",
+    "options": ["Taplejung", "Terhathum", "Sankhuwasabha", "Dhankuta"],
+    "correctAnswer": "Terhathum",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the capital of Koshi Province?",
+    "options": ["Dharan", "Itahari", "Biratnagar", "Damak"],
+    "correctAnswer": "Biratnagar",
+    "section": "Politics"
+  },
+  {
+    "question": "According to the 2078 Census, what is the total population of Koshi Province?",
+    "options": ["61,14,600", "49,614,412", "61,16,866", "24,66,427"],
+    "correctAnswer": "49,614,412",
+    "section": "Demography"
+  },
+  {
+    "question": "How many districts does Madhesh Province have?",
+    "options": ["14", "13", "8", "11"],
+    "correctAnswer": "8",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest district of Madhesh Province by area?",
+    "options": ["Mahottari", "Sarlahi", "Saptari", "Dhanusha"],
+    "correctAnswer": "Saptari",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the smallest district of Madhesh Province by area?",
+    "options": ["Saptari", "Rautahat", "Bara", "Mahottari"],
+    "correctAnswer": "Mahottari",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the capital of Madhesh Province?",
+    "options": ["Birgunj", "Janakpur", "Rajbiraj", "Jaleshwar"],
+    "correctAnswer": "Janakpur",
+    "section": "Politics"
+  },
+  {
+    "question": "According to the 2078 Census, what is the population of Madhesh Province?",
+    "options": ["49,614,412", "61,14,600", "61,16,866", "51,22,078"],
+    "correctAnswer": "61,14,600",
+    "section": "Demography"
+  },
+  {
+    "question": "Bagmati Province is bordered by China to which direction?",
+    "options": ["East", "West", "North", "South"],
+    "correctAnswer": "North",
+    "section": "Geography"
+  },
+  {
+    "question": "Bagmati Province has how many districts?",
+    "options": ["8", "11", "14", "13"],
+    "correctAnswer": "13",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest district of Bagmati Province by area?",
+    "options": ["Kathmandu", "Sindhupalchok", "Rasuwa", "Dhading"],
+    "correctAnswer": "Sindhupalchok",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the smallest district of Bagmati Province by area?",
+    "options": ["Lalitpur", "Kathmandu", "Bhaktapur", "Makwanpur"],
+    "correctAnswer": "Bhaktapur",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the capital of Bagmati Province?",
+    "options": ["Kathmandu", "Hetauda", "Makwanpur", "Dhulikhel"],
+    "correctAnswer": "Hetauda",
+    "section": "Politics"
+  },
+  {
+    "question": "According to the 2078 Census, what is the population of Bagmati Province?",
+    "options": ["49,614,412", "61,14,600", "61,16,866", "51,22,078"],
+    "correctAnswer": "61,16,866",
+    "section": "Demography"
+  },
+  {
+    "question": "Gandaki Province has how many districts?",
+    "options": ["8", "13", "11", "14"],
+    "correctAnswer": "11",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest district of Gandaki Province by area?",
+    "options": ["Kaski", "Manang", "Mustang", "Gorkha"],
+    "correctAnswer": "Gorkha",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the smallest district of Gandaki Province by area?",
+    "options": ["Kaski", "Lamjung", "Parbat", "Myagdi"],
+    "correctAnswer": "Parbat",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the capital of Gandaki Province?",
+    "options": ["Gorkha", "Pokhara", "Baglung", "Syanga"],
+    "correctAnswer": "Pokhara",
+    "section": "Politics"
+  },
+  {
+    "question": "According to the 2078 Census, what is the population of Gandaki Province?",
+    "options": ["61,16,866", "51,22,078", "24,66,427", "49,614,412"],
+    "correctAnswer": "24,66,427",
+    "section": "Demography"
+  },
+  {
+    "question": "Lumbini Province is bordered by which province to the east?",
+    "options": ["Karnali Province", "Sudurpashchim Province", "Gandaki Province", "Bagmati Province"],
+    "correctAnswer": "Gandaki Province",
+    "section": "Geography"
+  },
+  {
+    "question": "How many districts does Lumbini Province have?",
+    "options": ["8", "11", "12", "13"],
+    "correctAnswer": "12",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest district of Lumbini Province by area?",
+    "options": ["Banke", "Rupandehi", "Dang", "Kapilvastu"],
+    "correctAnswer": "Dang",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the smallest district of Lumbini Province by area?",
+    "options": ["Dang", "Kapilvastu", "Rupandehi", "Nawalparasi (West of Bardaghat Susta)"],
+    "correctAnswer": "Nawalparasi (West of Bardaghat Susta)",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the capital of Lumbini Province?",
+    "options": ["Butwal", "Bhalubang", "Tansen", "Nepalgunj"],
+    "correctAnswer": "Bhalubang",
+    "section": "Politics"
+  },
+  {
+    "question": "According to the 2078 Census, what is the population of Lumbini Province?",
+    "options": ["61,16,866", "24,66,427", "51,22,078", "49,614,412"],
+    "correctAnswer": "51,22,078",
+    "section": "Demography"
+  },
+  {
+    "question": "Kushma, the headquarters of Parbat district, is located on the bank of which river?",
+    "options": ["Kaligandaki River", "Modi River", "Seti River", "Marsyangdi River"],
+    "correctAnswer": "Modi River",
+    "section": "Geography"
+  },
+  {
+    "question": "Butwal, in Rupandehi district, is located on the bank of which river?",
+    "options": ["Tinau River", "Babai River", "Rapti River", "Karnali River"],
+    "correctAnswer": "Tinau River",
+    "section": "Geography"
+  },
+  {
+    "question": "Ghorahi, in Dang district, is located on the bank of which river?",
+    "options": ["Karnali River", "Babai River", "Rapti River", "Bheri River"],
+    "correctAnswer": "Babai River",
+    "section": "Geography"
+  },
+  {
+    "question": "Syangja Bazaar, in Syangja district, is located on the bank of which river?",
+    "options": ["Kaligandaki River", "Seti River", "Aandhikhola River", "Modi River"],
+    "correctAnswer": "Aandhikhola River",
+    "section": "Geography"
+  },
+  {
+    "question": "Beni, the headquarters of Myagdi district, is located on the bank of which river?",
+    "options": ["Marsyangdi River", "Kali Gandaki River", "Seti River", "Trishuli River"],
+    "correctAnswer": "Kali Gandaki River",
+    "section": "Geography"
+  },
+  {
+    "question": "Jomsom, in Mustang district, is located on the bank of which river?",
+    "options": ["Kali Gandaki River", "Marsyangdi River", "Karnali River", "Trishuli River"],
+    "correctAnswer": "Kali Gandaki River",
+    "section": "Geography"
+  },
+  {
+    "question": "Chame, the headquarters of Manang district, is located on the bank of which river?",
+    "options": ["Kali Gandaki River", "Marsyangdi River", "Seti River", "Trishuli River"],
+    "correctAnswer": "Marsyangdi River",
+    "section": "Geography"
+  },
+  {
+    "question": "Mahendranagar, in Kanchanpur district, is located on the bank of which river?",
+    "options": ["Karnali River", "Seti River", "Mahakali River", "Babai River"],
+    "correctAnswer": "Mahakali River",
+    "section": "Geography"
+  },
+  {
+    "question": "Jumla, the headquarters of Jumla district, is located on the bank of which river?",
+    "options": ["Humla Karnali River", "Karnali (Tila) River", "Thuli Bheri River", "Seti River"],
+    "correctAnswer": "Karnali (Tila) River",
+    "section": "Geography"
+  },
+  {
+    "question": "Dipayal, the headquarters of Doti district, is located on the bank of which river?",
+    "options": ["Karnali River", "Mahakali River", "Seti River", "Babai River"],
+    "correctAnswer": "Seti River",
+    "section": "Geography"
+  },
+  {
+    "question": "Bharatpur (Narayangarh), in Chitwan district, is located on the bank of which river?",
+    "options": ["Rapti River", "Narayani (Saptagandaki) River", "Trishuli River", "Karnali River"],
+    "correctAnswer": "Narayani (Saptagandaki) River",
+    "section": "Geography"
+  },
+  {
+    "question": "Gaighat, the headquarters of Udayapur district, is located on the bank of which river?",
+    "options": ["Sunkoshi River", "Kamala River", "Triyuga River", "Arun River"],
+    "correctAnswer": "Triyuga River",
+    "section": "Geography"
+  },
+  {
+    "question": "Chandragadhi, in Jhapa district, is located on the bank of which river?",
+    "options": ["Kankai River", "Mechi River", "Biring River", "Ratu River"],
+    "correctAnswer": "Mechi River",
+    "section": "Geography"
+  },
+  {
+    "question": "Kakarbhitta, in Jhapa district, is located on the bank of which river?",
+    "options": ["Kankai River", "Biring River", "Mechi River", "Ratu River"],
+    "correctAnswer": "Mechi River",
+    "section": "Geography"
+  },
+  {
+    "question": "Manthali, the headquarters of Ramechhap district, is located on the bank of which river?",
+    "options": ["Tamakoshi River", "Sunkoshi River", "Likhu River", "Dudhkoshi River"],
+    "correctAnswer": "Sunkoshi River",
+    "section": "Geography"
+  },
+  {
+    "question": "Simikot, the headquarters of Humla district, is located on the bank of which river?",
+    "options": ["Mugu Karnali River", "Humla Karnali River", "Karnali River", "Tila River"],
+    "correctAnswer": "Humla Karnali River",
+    "section": "Geography"
+  },
+  {
+    "question": "Dhunche, the headquarters of Rasuwa district, is located on the bank of which river?",
+    "options": ["Budhigandaki River", "Trishuli River", "Langtang Khola", "Bhote Koshi"],
+    "correctAnswer": "Trishuli River",
+    "section": "Geography"
+  },
+  {
+    "question": "Hetauda, the headquarters of Makwanpur district, is located on the bank of which river?",
+    "options": ["Bagmati River", "Rapti River", "Kamala River", "Triyuga River"],
+    "correctAnswer": "Rapti River",
+    "section": "Geography"
+  },
+  {
+    "question": "Sindhulimadi, in Sindhuli district, is located on the bank of which river?",
+    "options": ["Kamalamai River", "Sunkoshi River", "Marin Khola", "Triyuga River"],
+    "correctAnswer": "Kamalamai River",
+    "section": "Geography"
+  },
+  {
+    "question": "What was the main reason for providing Birta land to individuals during the Rana regime?",
+    "options": ["For educational purposes", "For showing bravery or being in the ruler's favor", "For religious donations", "For business development"],
+    "correctAnswer": "For showing bravery or being in the ruler's favor",
+    "section": "History"
+  },
+  {
+    "question": "During which regime was the Birta land system commonly practiced?",
+    "options": ["Shah regime", "Malla regime", "Rana regime", "Lichchhavi regime"],
+    "correctAnswer": "Rana regime",
+    "section": "History"
+  },
+  {
+    "question": "What was Kush Birta?",
+    "options": ["Land for soldiers' families", "Land for government employees", "Land donated to Brahmins", "Land for good work"],
+    "correctAnswer": "Land donated to Brahmins",
+    "section": "History"
+  },
+  {
+    "question": "What was Fikdar Birta?",
+    "options": ["Land for bravery", "Land given for good work", "Land for religious purposes", "Land for the families of martyrs"],
+    "correctAnswer": "Land given for good work",
+    "section": "History"
+  },
+  {
+    "question": "What was Marwat Birta?",
+    "options": ["Land given to Brahmins", "Land given for good work", "Land given to the families of soldiers killed in war", "Land given to government employees"],
+    "correctAnswer": "Land given to the families of soldiers killed in war",
+    "section": "History"
+  },
+  {
+    "question": "Approximately what percentage of agricultural land was distributed as Birta?",
+    "options": ["15 percent", "25 percent", "35 percent", "45 percent"],
+    "correctAnswer": "35 percent",
+    "section": "History"
+  },
+  {
+    "question": "In which B.S. year was the Birta Abolition Act issued?",
+    "options": ["B.S. 2021", "B.S. 2016", "B.S. 2042", "B.S. 2076"],
+    "correctAnswer": "B.S. 2016",
+    "section": "History"
+  },
+  {
+    "question": "What did the Birta Abolition Act do?",
+    "options": ["Created more Birta land", "Converted all Birta land into Guthi land", "Converted all Birta land into Raikar land", "Abolished all land ownership"],
+    "correctAnswer": "Converted all Birta land into Raikar land",
+    "section": "History"
+  },
+  {
+    "question": "What is Guthi Land?",
+    "options": ["Land for individual farmers", "Land for government employees", "Institutional land used as a trust for public or collective purposes", "Land for industrial use"],
+    "correctAnswer": "Institutional land used as a trust for public or collective purposes",
+    "section": "History"
+  },
+  {
+    "question": "From which Sanskrit word does 'Guthi' originate, and what does it mean?",
+    "options": ["Gosthi, meaning 'Council'", "Guru, meaning 'Teacher'", "Griha, meaning 'House'", "Gau, meaning 'Cow'"],
+    "correctAnswer": "Gosthi, meaning 'Council'",
+    "section": "Culture"
+  },
+  {
+    "question": "For what primary purposes are Guthi lands established?",
+    "options": ["For industrial development", "For performing worship in temples and preservation of religious heritage", "For agricultural research", "For building schools and hospitals"],
+    "correctAnswer": "For performing worship in temples and preservation of religious heritage",
+    "section": "History"
+  },
+  {
+    "question": "Which of the following temples has major Guthi lands?",
+    "options": ["Muktinath", "Pashupatinath", "Manakamana", "Pathibhara"],
+    "correctAnswer": "Pashupatinath",
+    "section": "History"
+  },
+  {
+    "question": "Which organization was established under the Land Reform Act 2021 to control and manage all types of Guthis?",
+    "options": ["Land Revenue Office", "Department of Land Reform", "Guthi Sansthan", "Ministry of Land Management"],
+    "correctAnswer": "Guthi Sansthan",
+    "section": "History"
+  },
+  {
+    "question": "Bhu-upayog, or land use, refers to what process?",
+    "options": ["Buying and selling of land", "Dividing and using land for different purposes in different areas", "Measuring land area", "Registering land ownership"],
+    "correctAnswer": "Dividing and using land for different purposes in different areas",
+    "section": "Geography"
+  },
+  {
+    "question": "By which act is land use in Nepal regulated?",
+    "options": ["Land Act, 2021", "Birta Abolition Act, 2016", "Land Use Act, 2076", "Guthi Corporation Act"],
+    "correctAnswer": "Land Use Act, 2076",
+    "section": "Politics"
+  },
+  {
+    "question": "Article 25(4) of the Constitution, concerning the Right to Property, allows the state to manage land for which purposes?",
+    "options": ["Only for agricultural modernization", "Only for urban development", "For agricultural modernization, urban development, and environment protection", "For industrial expansion only"],
+    "correctAnswer": "For agricultural modernization, urban development, and environment protection",
+    "section": "Politics"
+  },
+  {
+    "question": "Which article of the Constitution outlines state policies for agriculture and land reform?",
+    "options": ["Article 25(4)", "Article 51", "Article 40", "Article 56"],
+    "correctAnswer": "Article 51",
+    "section": "Politics"
+  },
+  {
+    "question": "Which of the following is a state policy outlined in the constitution regarding land?",
+    "options": ["Encouraging absentee land ownership", "Ending dual ownership of land", "Promoting land fragmentation", "Discouraging land consolidation"],
+    "correctAnswer": "Ending dual ownership of land",
+    "section": "Politics"
+  },
+  {
+    "question": "What is discouraged under the state policies for agriculture and land reform?",
+    "options": ["Land consolidation", "Absentee land ownership", "Scientific land reform", "Increasing production"],
+    "correctAnswer": "Absentee land ownership",
+    "section": "Politics"
+  },
+  {
+    "question": "State policies aim to increase production through which method?",
+    "options": ["Land fragmentation", "Land consolidation", "Encouraging absentee ownership", "Dual ownership"],
+    "correctAnswer": "Land consolidation",
+    "section": "Politics"
+  },
+  {
+    "question": "The Land Act, 2021 (Bhu-Sambandhi Ain) contains how many chapters and sections?",
+    "options": ["10 chapters and 60 sections", "11 chapters and 64 sections", "12 chapters and 70 sections", "8 chapters and 50 sections"],
+    "correctAnswer": "11 chapters and 64 sections",
+    "section": "Politics"
+  },
+  {
+    "question": "What was one of the main purposes of enacting the Land Act, 2021?",
+    "options": ["To promote the Zamindari system", "To end the Zamindari system", "To encourage land fragmentation", "To establish the Guthi system"],
+    "correctAnswer": "To end the Zamindari system",
+    "section": "History"
+  },
+  {
+    "question": "By B.S. 2076, how many times had the Land Act, 2021 been amended?",
+    "options": ["5 times", "6 times", "8 times", "10 times"],
+    "correctAnswer": "8 times",
+    "section": "Politics"
+  },
+  {
+    "question": "The Land Use Act, 2076 contains how many chapters and sections?",
+    "options": ["11 chapters and 64 sections", "8 chapters and 40 sections", "6 chapters and 34 sections", "5 chapters and 30 sections"],
+    "correctAnswer": "6 chapters and 34 sections",
+    "section": "Politics"
+  },
+  {
+    "question": "According to Section 4 of the Land Use Act, 2076, land is classified into how many zones?",
+    "options": ["Five", "Seven", "Ten, plus others designated by the government", "Eight"],
+    "correctAnswer": "Ten, plus others designated by the government",
+    "section": "Politics"
+  },
+  {
+    "question": "Which of the following is a land use zone specified in the Land Use Act, 2076?",
+    "options": ["Industrial Zone", "Pastoral Zone", "Military Zone", "Tourist Zone"],
+    "correctAnswer": "Industrial Zone",
+    "section": "Politics"
+  },
+  {
+    "question": "Who can further classify sub-zones based on local requirements?",
+    "options": ["Federal Ministry", "Provincial Government", "Local levels", "District Administration Office"],
+    "correctAnswer": "Local levels",
+    "section": "Politics"
+  },
+  {
+    "question": "Which body prepares land use maps for each local level?",
+    "options": ["Provincial Government", "Local Level itself", "Federal Ministry", "Survey Department"],
+    "correctAnswer": "Federal Ministry",
+    "section": "Politics"
+  },
+  {
+    "question": "Long-term land use plans consider factors like food and housing needs, infrastructure development, and what else?",
+    "options": ["Climate change", "Population growth", "Foreign investment", "Tourism revenue"],
+    "correctAnswer": "Population growth",
+    "section": "Politics"
+  },
+  {
+    "question": "According to Section 8 of the Land Use Act, 2076, can land classified under one category be changed to another?",
+    "options": ["Yes, freely", "No, under any circumstances", "Yes, but only with adequate evidence and reasonable cause", "Yes, with permission from the local level only"],
+    "correctAnswer": "Yes, but only with adequate evidence and reasonable cause",
+    "section": "Politics"
+  },
+  {
+    "question": "The fragmentation of land, known as Kittakat, is controlled and regulated by which bodies?",
+    "options": ["Only the Ministry", "Only the Local Level", "Ministry, Province, and Local Level", "Only the Province"],
+    "correctAnswer": "Ministry, Province, and Local Level",
+    "section": "Politics"
+  },
+  {
+    "question": "What is encouraged to combat land fragmentation?",
+    "options": ["Kittakat", "Chaklabandi (land consolidation)", "Absentee ownership", "Dual ownership"],
+    "correctAnswer": "Chaklabandi (land consolidation)",
+    "section": "Politics"
+  },
+  {
+    "question": "On what basis are land ownership certificates (Lalpurja) updated?",
+    "options": ["Owner's caste", "Land area only", "Land use classification", "Crop production"],
+    "correctAnswer": "Land use classification",
+    "section": "Politics"
+  },
+  {
+    "question": "How are the valuation and taxation of land determined?",
+    "options": ["By the owner's income", "By its distance from the capital", "By its land use classification", "By the type of crops grown"],
+    "correctAnswer": "By its land use classification",
+    "section": "Politics"
+  },
+  {
+    "question": "What was the forest coverage percentage in Nepal in 2024?",
+    "options": ["44.74 percent", "45.31 percent", "46.08 percent", "39.6 percent"],
+    "correctAnswer": "46.08 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What was Nepal's forest area percentage in the 1990s?",
+    "options": ["44.74 percent", "45.31 percent", "39.6 percent", "46.08 percent"],
+    "correctAnswer": "39.6 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What was Nepal's forest area percentage in 2015?",
+    "options": ["45.31 percent", "44.74 percent", "46.08 percent", "39.6 percent"],
+    "correctAnswer": "44.74 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What was Nepal's forest area percentage in 2019?",
+    "options": ["44.74 percent", "45.31 percent", "46.08 percent", "39.6 percent"],
+    "correctAnswer": "45.31 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total forest area of Nepal in hectares, and its corresponding percentage?",
+    "options": ["59,99,341 hectares (43.38%)", "3,78,916 hectares (2.70%)", "60,00,000 hectares (45%)", "55,00,000 hectares (40%)"],
+    "correctAnswer": "59,99,341 hectares (43.38%)",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total shrub/bush (Jhadibuyan) area of Nepal in hectares and its percentage?",
+    "options": ["59,99,341 hectares (43.38%)", "3,78,916 hectares (2.70%)", "4,00,000 hectares (3%)", "2,50,000 hectares (1.8%)"],
+    "correctAnswer": "3,78,916 hectares (2.70%)",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is a reason for the increase in Nepal's forest area?",
+    "options": ["Increased use of firewood for cooking", "Expansion of agricultural land", "Shift from firewood to gas for cooking", "Increase in population"],
+    "correctAnswer": "Shift from firewood to gas for cooking",
+    "section": "Geography"
+  },
+  {
+    "question": "Mining history in Nepal is considered to be what?",
+    "options": ["Very ancient", "Relatively short", "As old as the hills", "Completely non-existent"],
+    "correctAnswer": "Relatively short",
+    "section": "History"
+  },
+  {
+    "question": "In which B.S. year was the Department of Mines and Geology established?",
+    "options": ["B.S. 2016", "B.S. 2024", "B.S. 2042", "B.S. 2076"],
+    "correctAnswer": "B.S. 2024",
+    "section": "History"
+  },
+  {
+    "question": "In which district was methane gas discovered based on studies by the China Geological Survey?",
+    "options": ["Dailekh", "Pyuthan", "Dang", "Surkhet"],
+    "correctAnswer": "Dailekh",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, which is a potential area for Iron in Nepal?",
+    "options": ["Ganesh Himal", "Phulchoki", "Tamakhani", "Chobhar"],
+    "correctAnswer": "Phulchoki",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, where is Copper potentially found?",
+    "options": ["Phulchoki", "Tamakhani", "Chobhar", "Godawari"],
+    "correctAnswer": "Tamakhani",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Mica is a potential mineral in which area?",
+    "options": ["Phulchoki", "Bhojpur", "Chobhar", "Ganesh Himal"],
+    "correctAnswer": "Bhojpur",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, which area is known for Limestone potential?",
+    "options": ["Bhojpur", "Ganesh Himal", "Chobhar", "Tamakhani"],
+    "correctAnswer": "Chobhar",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Lead and Zinc are potential minerals in which area?",
+    "options": ["Phulchoki", "Chobhar", "Ganesh Himal", "Bhojpur"],
+    "correctAnswer": "Ganesh Himal",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Sulphur is a potential mineral in which areas?",
+    "options": ["Chisapani Gadi and Gosainkunda", "Phulchoki and Godawari", "Bhojpur and Chainpur", "Dang and Salyan"],
+    "correctAnswer": "Chisapani Gadi and Gosainkunda",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Talc (Khari) is a potential mineral in which district?",
+    "options": ["Dang", "Sindhupalchok", "Makwanpur", "Surkhet"],
+    "correctAnswer": "Sindhupalchok",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Slate is a potential mineral in which areas?",
+    "options": ["Godawari", "Bandipur, Bagmati, Lumbini, Gandaki, Janakpur", "Sindhupalchok", "Bhojpur"],
+    "correctAnswer": "Bandipur, Bagmati, Lumbini, Gandaki, Janakpur",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Marble is a potential mineral in which area?",
+    "options": ["Chobhar", "Godawari and Mahabharat range", "Phulchoki", "Ganesh Himal"],
+    "correctAnswer": "Godawari and Mahabharat range",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Ochre (Geru) is a potential mineral in which areas?",
+    "options": ["Godawari", "Sindhupalchok and Chautara", "Bhojpur", "Dang"],
+    "correctAnswer": "Sindhupalchok and Chautara",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Coal is a potential mineral in which areas?",
+    "options": ["Dang, Salyan, Chautara", "Phulchoki, Those", "Tamakhani, Simakhani", "Kulekhani, Bhimphedi"],
+    "correctAnswer": "Dang, Salyan, Chautara",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Petroleum is a potential mineral in which of the following areas?",
+    "options": ["Ganesh Himal", "Phulchoki", "Koilabas", "Chobhar"],
+    "correctAnswer": "Koilabas",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, in which areas is Gas a potential mineral in Nepal?",
+    "options": ["Terai plains, Mustang, Kathmandu Valley", "Dang, Salyan, Pyuthan", "Koilabas, Nepalgunj, Dhangadhi", "Chisapani Gadi, Gosainkunda, Barahakshetra"],
+    "correctAnswer": "Terai plains, Mustang, Kathmandu Valley",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, where is placer gold found in Nepal?",
+    "options": ["Ganesh Himal", "Phulchoki", "Sunkoshi, Budhigandaki, Kali Gandaki", "Tamakhani"],
+    "correctAnswer": "Sunkoshi, Budhigandaki, Kali Gandaki",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Silver is a potential mineral in which areas?",
+    "options": ["Palpa, Gulmi", "Dhankuta", "Chisapani Gadi, Baglung, Phulchoki", "Salyan, Doti"],
+    "correctAnswer": "Chisapani Gadi, Baglung, Phulchoki",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Cobalt is a potential mineral in which areas?",
+    "options": ["Salyan, Doti", "Rasuwa, Syaphrubesi", "Palpa, Gulmi, Arghakhanchi, Dhankuta", "Gorkha, Dadeldhura, Jajarkot"],
+    "correctAnswer": "Palpa, Gulmi, Arghakhanchi, Dhankuta",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Soda is a potential mineral in which districts?",
+    "options": ["Rasuwa", "Salyan and Doti", "Gorkha", "Dadeldhura"],
+    "correctAnswer": "Salyan and Doti",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Rock salt or Bit salt is a potential mineral in which areas?",
+    "options": ["Salyan, Doti", "Palpa, Gulmi", "Rasuwa, Syaphrubesi", "Gorkha, Dadeldhura"],
+    "correctAnswer": "Rasuwa, Syaphrubesi",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, semi-precious stones (Neoverse) are found in which districts?",
+    "options": ["Gorkha, Dadeldhura, Jajarkot", "Rasuwa, Syaphrubesi", "Palpa, Gulmi", "Dhankuta"],
+    "correctAnswer": "Gorkha, Dadeldhura, Jajarkot",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Nickel is a potential mineral in which areas?",
+    "options": ["Kharidhunga", "Khokling, Nampha, Tungthang, Bholne", "Kampughat", "Nunkhani"],
+    "correctAnswer": "Khokling, Nampha, Tungthang, Bholne",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.9, Magnesite is a potential mineral in which of the following areas?",
+    "options": ["Khokling", "Kharidhunga", "Nampha", "Bholne"],
+    "correctAnswer": "Kharidhunga",
+    "section": "Geography"
+  },
+  {
+    "question": "Globally, where does Nepal rank in terms of being richest in water resources?",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "correctAnswer": "Second",
+    "section": "Geography"
+  },
+  {
+    "question": "In Asia, where does Nepal rank in terms of being richest in water resources?",
+    "options": ["Second", "Third", "First", "Fourth"],
+    "correctAnswer": "First",
+    "section": "Geography"
+  },
+  {
+    "question": "How many rivers and rivulets are there in Nepal?",
+    "options": ["More than 3,000", "More than 4,000", "More than 5,000", "More than 6,000"],
+    "correctAnswer": "More than 6,000",
+    "section": "Geography"
+  },
+  {
+    "question": "What percentage of Nepal's total water storage capacity is held by the three largest rivers (Koshi, Gandaki, Karnali)?",
+    "options": ["50 percent", "65 percent", "74 percent", "83 percent"],
+    "correctAnswer": "74 percent",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total hydroelectric potential of Nepal, in MW?",
+    "options": ["Approximately 22,000 MW", "Approximately 32,000 MW", "Approximately 83,000 MW", "Approximately 42,000 MW"],
+    "correctAnswer": "Approximately 83,000 MW",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the characteristic of First-level rivers in Nepal?",
+    "options": ["They dry up completely in winter", "They originate from the Mahabharat range", "They originate from the Himalayas or snowmelt and flow continuously with high volume", "They are useful only for local irrigation"],
+    "correctAnswer": "They originate from the Himalayas or snowmelt and flow continuously with high volume",
+    "section": "Geography"
+  },
+  {
+    "question": "First-level rivers in Nepal are useful for which types of projects?",
+    "options": ["Local fishing", "Small-scale irrigation", "Large-scale hydropower and irrigation", "Rafting and tourism only"],
+    "correctAnswer": "Large-scale hydropower and irrigation",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following is an example of a Second-level river in Nepal?",
+    "options": ["Koshi", "Karnali", "Bagmati", "Gandaki"],
+    "correctAnswer": "Bagmati",
+    "section": "Geography"
+  },
+  {
+    "question": "What is a key characteristic of Second-level rivers?",
+    "options": ["They originate from the Himalayas", "They have high volume year-round", "Volume decreases significantly in winter", "They are useful for large-scale hydropower"],
+    "correctAnswer": "Volume decreases significantly in winter",
+    "section": "Geography"
+  },
+  {
+    "question": "From which range do Third-level rivers in Nepal originate?",
+    "options": ["Himalayas", "Mahabharat range", "Chure (Siwalik) range", "Mid-land range"],
+    "correctAnswer": "Chure (Siwalik) range",
+    "section": "Geography"
+  },
+  {
+    "question": "What happens to Third-level rivers during the winter?",
+    "options": ["They increase in volume", "They become massive", "They decrease greatly or dry up", "They freeze completely"],
+    "correctAnswer": "They decrease greatly or dry up",
+    "section": "Geography"
+  },
+  {
+    "question": "Third-level rivers are useful for what purpose?",
+    "options": ["Large-scale hydropower", "Monsoon farming and short-term irrigation", "Year-round navigation", "Drinking water supply for cities"],
+    "correctAnswer": "Monsoon farming and short-term irrigation",
+    "section": "Geography"
+  },
+  {
+    "question": "At what elevation is Tilicho Lake situated?",
+    "options": ["3,613 meters", "2,990 meters", "4,919 meters", "4,580 meters"],
+    "correctAnswer": "4,919 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "In the lap of which mountain is Tilicho Lake situated?",
+    "options": ["Mt. Annapurna", "Mt. Nilgiri", "Pharkche Himalaya", "Mt. Machhapuchhre"],
+    "correctAnswer": "Pharkche Himalaya",
+    "section": "Geography"
+  },
+  {
+    "question": "Tilicho Lake is located on the border of which two districts?",
+    "options": ["Dolpa and Mugu", "Mustang and Manang", "Kaski and Manang", "Rasuwa and Nuwakot"],
+    "correctAnswer": "Mustang and Manang",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the approximate dimensions of Tilicho Lake?",
+    "options": ["Length 5.2km, Width 2.4km", "Length 4km, Width 1.2km", "Length 4.8km, Width 1.5km", "Length 3km, Width 0.5km"],
+    "correctAnswer": "Length 4km, Width 1.2km",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the approximate depth of Tilicho Lake?",
+    "options": ["167 meters", "100 meters", "200 meters", "650 meters"],
+    "correctAnswer": "200 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "Which mountains are located to the north and south of Tilicho Lake?",
+    "options": ["Nilgiri to the north, Annapurna to the south", "Annapurna to the north, Nilgiri to the south", "Dhaulagiri to the north, Machhapuchhre to the south", "Manaslu to the north, Himchuli to the south"],
+    "correctAnswer": "Nilgiri to the north, Annapurna to the south",
+    "section": "Geography"
+  },
+  {
+    "question": "Rara Lake, famous as the largest lake in Nepal, is located in which district?",
+    "options": ["Dolpa", "Kaski", "Mugu", "Rasuwa"],
+    "correctAnswer": "Mugu",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the length, width, and depth of Rara Lake?",
+    "options": ["4.8km, 1.5km, 24m", "5.2km, 2.4km, 167m", "4.82km, 1.61km, 650m", "3km, 0.5km, 100m"],
+    "correctAnswer": "5.2km, 2.4km, 167m",
+    "section": "Geography"
+  },
+  {
+    "question": "At what elevation is Rara Lake situated, and what is its other name?",
+    "options": ["3,613m; Rigmo", "2,990m; Mahendra Tal", "4,919m; Tiri-Chowa", "4,580m; Cho-Rolpa"],
+    "correctAnswer": "2,990m; Mahendra Tal",
+    "section": "Geography"
+  },
+  {
+    "question": "Shey-Phoksundo Lake is located in which district?",
+    "options": ["Mugu", "Kaski", "Dolpa", "Manang"],
+    "correctAnswer": "Dolpa",
+    "section": "Geography"
+  },
+  {
+    "question": "At the base of which mountain and the head of which stream is Shey-Phoksundo Lake located?",
+    "options": ["Pharkche Himal; Marsyangdi Khola", "Kanjirowa mountain; Jagadulla Khola", "Nilgiri; Kali Gandaki", "Annapurna; Seti Khola"],
+    "correctAnswer": "Kanjirowa mountain; Jagadulla Khola",
+    "section": "Geography"
+  },
+  {
+    "question": "At what approximate elevation is Shey-Phoksundo Lake situated?",
+    "options": ["4,919 meters", "2,990 meters", "3,613 meters", "4,580 meters"],
+    "correctAnswer": "3,613 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the length, width, and depth of Shey-Phoksundo Lake?",
+    "options": ["5.2km, 2.4km, 167m", "4km, 1.2km, 200m", "4.82km, 1.61km, 650m", "4.8km, 1.5km, 24m"],
+    "correctAnswer": "4.82km, 1.61km, 650m",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the local name of Shey-Phoksundo Lake?",
+    "options": ["Mahendra Tal", "Tiri-Chowa", "Rigmo", "Cho-Rolpa"],
+    "correctAnswer": "Rigmo",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the shape of Shey-Phoksundo Lake?",
+    "options": ["Circular", "Triangular and elongated", "Square", "Crescent-shaped"],
+    "correctAnswer": "Triangular and elongated",
+    "section": "Geography"
+  },
+  {
+    "question": "Shey-Phoksundo is the second largest lake and the ________ lake in the country.",
+    "options": ["Shallowest", "Highest", "Deepest", "Smallest"],
+    "correctAnswer": "Deepest",
+    "section": "Geography"
+  },
+  {
+    "question": "Why does no aquatic life exist in Shey-Phoksundo Lake?",
+    "options": ["Because of volcanic activity", "Because the water is extremely cold", "Because it is too shallow", "Because of high pollution"],
+    "correctAnswer": "Because the water is extremely cold",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the name of the waterfall that serves as the outlet of Shey-Phoksundo Lake, and how high is it?",
+    "options": ["Devi's Fall, 50 meters", "Suligad waterfall, 176 meters", "Rupse waterfall, 300 meters", "Hyatung waterfall, 365 meters"],
+    "correctAnswer": "Suligad waterfall, 176 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "Cho-Rolpa Lake is located in which district at what elevation?",
+    "options": ["Rasuwa, 4,360m", "Dolakha, 4,580m", "Manang, 4,919m", "Mugu, 2,990m"],
+    "correctAnswer": "Dolakha, 4,580m",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the approximate dimensions of Cho-Rolpa Lake?",
+    "options": ["5.2km long, 2.4km wide", "4km long, 1.2km wide", "3km long, 0.5km wide", "4.8km long, 1.5km wide"],
+    "correctAnswer": "3km long, 0.5km wide",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the depth of Cho-Rolpa Lake?",
+    "options": ["167 meters", "200 meters", "100 meters", "650 meters"],
+    "correctAnswer": "100 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "Approximately how much water does Cho-Rolpa Lake contain?",
+    "options": ["80 million cubic meters", "100 million cubic meters", "50 million cubic meters", "120 million cubic meters"],
+    "correctAnswer": "80 million cubic meters",
+    "section": "Geography"
+  },
+  {
+    "question": "Why were siphons installed at Cho-Rolpa Lake?",
+    "options": ["For irrigation", "To generate hydropower", "To drain water and prevent a potential outburst", "To supply drinking water"],
+    "correctAnswer": "To drain water and prevent a potential outburst",
+    "section": "Geography"
+  },
+  {
+    "question": "Phewa Lake is located in which district?",
+    "options": ["Kaski", "Mugu", "Dolpa", "Rasuwa"],
+    "correctAnswer": "Kaski",
+    "section": "Geography"
+  },
+  {
+    "question": "What are the length, width, and depth of Phewa Lake?",
+    "options": ["5.2km, 2.4km, 167m", "4km, 1.2km, 200m", "4.8km, 1.5km, 24m", "4.82km, 1.61km, 650m"],
+    "correctAnswer": "4.8km, 1.5km, 24m",
+    "section": "Geography"
+  },
+  {
+    "question": "Phewa Lake is famous for reflecting the image of which mountain?",
+    "options": ["Mt. Everest", "Mt. Annapurna", "Mt. Machhapuchhre", "Mt. Dhaulagiri"],
+    "correctAnswer": "Mt. Machhapuchhre",
+    "section": "Geography"
+  },
+  {
+    "question": "Which king built Rani Pokhari in Kathmandu?",
+    "options": ["King Prithvi Narayan Shah", "King Jayasthiti Malla", "King Pratap Malla", "King Tribhuvan"],
+    "correctAnswer": "King Pratap Malla",
+    "section": "History"
+  },
+  {
+    "question": "Why was Rani Pokhari built by King Pratap Malla?",
+    "options": ["To celebrate a military victory", "To console his queen Anantapriya after their son's death", "To mark the foundation of the city", "As a gift for his mother"],
+    "correctAnswer": "To console his queen Anantapriya after their son's death",
+    "section": "History"
+  },
+  {
+    "question": "What are the length and width of Rani Pokhari?",
+    "options": ["Length 180 meters; Width 140 meters", "Length 150 meters; Width 100 meters", "Length 200 meters; Width 150 meters", "Length 120 meters; Width 90 meters"],
+    "correctAnswer": "Length 180 meters; Width 140 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total area of Rani Pokhari?",
+    "options": ["~32 Ropani", "~50 Ropani", "~25 Ropani", "~40 Ropani"],
+    "correctAnswer": "~32 Ropani",
+    "section": "Geography"
+  },
+  {
+    "question": "At the corners of Rani Pokhari, which deity's idol is placed in the Northeast?",
+    "options": ["Mahalaxmi", "Ganesh", "Bhairav", "Shiva"],
+    "correctAnswer": "Bhairav",
+    "section": "Culture"
+  },
+  {
+    "question": "At the corners of Rani Pokhari, which deity's idol is placed in the Southeast?",
+    "options": ["Bhairav", "Ganesh", "Mahalaxmi", "Vishnu"],
+    "correctAnswer": "Mahalaxmi",
+    "section": "Culture"
+  },
+  {
+    "question": "At the corners of Rani Pokhari, which deity's idol is placed in the Southwest?",
+    "options": ["Bhairav", "Mahalaxmi", "16-handed Ganesh", "Shiva"],
+    "correctAnswer": "16-handed Ganesh",
+    "section": "Culture"
+  },
+  {
+    "question": "Where is Taudaha Lake located?",
+    "options": ["Pokhara", "Kathmandu Valley", "Mugu", "Dolpa"],
+    "correctAnswer": "Kathmandu Valley",
+    "section": "Geography"
+  },
+  {
+    "question": "According to legend, for whom was Taudaha created at the Bhutkhel spot?",
+    "options": ["Nagraj Karkotak", "Manjushree", "Lord Krishna", "King Pratap Malla"],
+    "correctAnswer": "Nagraj Karkotak",
+    "section": "Culture"
+  },
+  {
+    "question": "Taudaha is also known as the residence of which mythical serpent?",
+    "options": ["Takshak Nag", "Vasuki Nag", "Karkotak Nag", "Shesh Nag"],
+    "correctAnswer": "Karkotak Nag",
+    "section": "Culture"
+  },
+  {
+    "question": "What is the land and water area of Taudaha?",
+    "options": ["50 Ropani land, 100 Ropani water", "69 Ropani land, 84 Ropani water", "80 Ropani land, 80 Ropani water", "100 Ropani land, 50 Ropani water"],
+    "correctAnswer": "69 Ropani land, 84 Ropani water",
+    "section": "Geography"
+  },
+  {
+    "question": "Why is Taudaha an important center for bird study and research?",
+    "options": ["It is the largest lake in Nepal", "Dozens of bird species are found there", "It is the deepest lake", "It is a Ramsar site"],
+    "correctAnswer": "Dozens of bird species are found there",
+    "section": "Geography"
+  },
+  {
+    "question": "Ghodaghodi Lake is located in which district?",
+    "options": ["Kailali", "Kanchanpur", "Bardiya", "Banke"],
+    "correctAnswer": "Kailali",
+    "section": "Geography"
+  },
+  {
+    "question": "Where is Ghodaghodi Lake situated in relation to Mahendra Highway?",
+    "options": ["South of the highway", "East of the highway", "North of the highway", "West of the highway"],
+    "correctAnswer": "North of the highway",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the shape and area of Ghodaghodi Lake?",
+    "options": ["Circular, 2 hectares", "Palm-shaped, 1.5 hectares", "Triangular, 3 hectares", "Rectangular, 2.5 hectares"],
+    "correctAnswer": "Palm-shaped, 1.5 hectares",
+    "section": "Geography"
+  },
+  {
+    "question": "After what is Ghodaghodi Lake named?",
+    "options": ["A nearby village", "A local king", "The nearby Ghodaghodi temple", "A type of bird found there"],
+    "correctAnswer": "The nearby Ghodaghodi temple",
+    "section": "Culture"
+  },
+  {
+    "question": "Which rare bird is found in the Ghodaghodi Lake area?",
+    "options": ["Spiny Babbler", "Great Hornbill (Dhanesh)", "Danphe", "Kalij Pheasant"],
+    "correctAnswer": "Great Hornbill (Dhanesh)",
+    "section": "Geography"
+  },
+  {
+    "question": "Begnas Lake is located in which district?",
+    "options": ["Kaski", "Mugu", "Dolpa", "Rasuwa"],
+    "correctAnswer": "Kaski",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the elevation, depth, and area of Begnas Lake?",
+    "options": ["677m, 7.5m, 225 hectares", "701m, 4.5m, 120 hectares", "4,360m, 100m, 80 hectares", "2,990m, 167m, 1,583 hectares"],
+    "correctAnswer": "677m, 7.5m, 225 hectares",
+    "section": "Geography"
+  },
+  {
+    "question": "Gosaikunda is located in which district?",
+    "options": ["Manang", "Mustang", "Rasuwa", "Dolakha"],
+    "correctAnswer": "Rasuwa",
+    "section": "Geography"
+  },
+  {
+    "question": "At what approximate elevation is Gosaikunda situated?",
+    "options": ["3,613 meters", "2,990 meters", "4,360 meters", "4,580 meters"],
+    "correctAnswer": "4,360 meters",
+    "section": "Geography"
+  },
+  {
+    "question": "In what type of terrain is Gosaikunda located?",
+    "options": ["Lush green meadows", "Sandy desert", "Black hard rock terrain", "Alluvial plain"],
+    "correctAnswer": "Black hard rock terrain",
+    "section": "Geography"
+  },
+  {
+    "question": "How was Gosaikunda formed?",
+    "options": ["By a meteor impact", "By Suryakunda (East) and Northern falls", "By a glacial moraine", "By a volcanic crater"],
+    "correctAnswer": "By Suryakunda (East) and Northern falls",
+    "section": "Geography"
+  },
+  {
+    "question": "Rupa Lake is located at the base of which mountain in Kaski?",
+    "options": ["Mt. Machhapuchhre", "Pachhaiya mountain", "Mt. Annapurna", "Pharkche Himalaya"],
+    "correctAnswer": "Pachhaiya mountain",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the elevation, depth, and area of Rupa Lake?",
+    "options": ["677m, 7.5m, 225 hectares", "701m, 4.5m, 120 hectares", "819m, 24m, 4.8 sq km", "2,990m, 167m, 106 sq km"],
+    "correctAnswer": "701m, 4.5m, 120 hectares",
+    "section": "Geography"
+  },
+  {
+    "question": "What is Rupa Lake currently used for?",
+    "options": ["Hydroelectricity", "Commercial fish farming", "Drinking water supply", "Religious ceremonies"],
+    "correctAnswer": "Commercial fish farming",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, in which district is Rara Lake located?",
+    "options": ["Kaski", "Dolpa", "Mugu", "Rasuwa"],
+    "correctAnswer": "Mugu",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Beeshazar Lake is located in which district?",
+    "options": ["Rupandehi", "Kapilvastu", "Chitwan", "Kailali"],
+    "correctAnswer": "Chitwan",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, in which districts are Gaidhawa Lake, Lhauka Lake, and Sagraiwa Lake located?",
+    "options": ["Kapilvastu", "Kailali", "Rupandehi", "Kanchanpur"],
+    "correctAnswer": "Rupandehi",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Jakhira Lake and Jagdishpur Lake are located in which district?",
+    "options": ["Rupandehi", "Kapilvastu", "Kailali", "Surkhet"],
+    "correctAnswer": "Kapilvastu",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Ghodaghodi Lake is located in which district?",
+    "options": ["Rupandehi", "Kapilvastu", "Kailali", "Surkhet"],
+    "correctAnswer": "Kailali",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Khaptad Daha is located in which district?",
+    "options": ["Achham", "Surkhet", "Kanchanpur", "Manang"],
+    "correctAnswer": "Achham",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Tilicho Lake is located in which district?",
+    "options": ["Mustang", "Manang", "Kaski", "Rasuwa"],
+    "correctAnswer": "Manang",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Gosaikunda is located in which district?",
+    "options": ["Manang", "Rasuwa", "Dolakha", "Sindhupalchok"],
+    "correctAnswer": "Rasuwa",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Indra Sarovar is located in which district?",
+    "options": ["Kathmandu", "Lalitpur", "Makwanpur", "Dhanusha"],
+    "correctAnswer": "Makwanpur",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Taudaha and Rani Pokhari are located in which district?",
+    "options": ["Lalitpur", "Bhaktapur", "Kathmandu", "Kaski"],
+    "correctAnswer": "Kathmandu",
+    "section": "Geography"
+  },
+  {
+    "question": "According to Table 1.10, Gangasagar is located in which district?",
+    "options": ["Morang", "Dhanusha", "Saptari", "Siraha"],
+    "correctAnswer": "Dhanusha",
+    "section": "Geography"
+  },
+  {
+    "question": "How did the population share of the Terai region change from the 2068 to the 2078 census?",
+    "options": ["Decreased from 53.61% to 50.27%", "Increased from 50.27% to 53.61%", "Remained the same at 50%", "Increased from 43.01% to 53.61%"],
+    "correctAnswer": "Increased from 50.27% to 53.61%",
+    "section": "Demography"
+  },
+  {
+    "question": "How did the population share of the Himalayas change from the 2068 to the 2078 census?",
+    "options": ["Increased from 6.08% to 6.73%", "Decreased from 43.01% to 40.31%", "Decreased from 6.73% to 6.08%", "Increased from 40.31% to 43.01%"],
+    "correctAnswer": "Decreased from 6.73% to 6.08%",
+    "section": "Demography"
+  },
+  {
+    "question": "How did the population share of the Hills change from the 2068 to the 2078 census?",
+    "options": ["Increased from 40.31% to 43.01%", "Decreased from 43.01% to 40.31%", "Decreased from 50.27% to 40.31%", "Increased from 6.08% to 43.01%"],
+    "correctAnswer": "Decreased from 43.01% to 40.31%",
+    "section": "Demography"
+  },
+  {
+    "question": "What was the sex ratio in the Himalayan region according to the 2078 census?",
+    "options": ["94.65", "96.11", "97.28", "101.2"],
+    "correctAnswer": "97.28",
+    "section": "Demography"
+  },
+  {
+    "question": "What was the sex ratio in the Hilly region according to the 2078 census?",
+    "options": ["97.28", "96.11", "94.65", "95.5"],
+    "correctAnswer": "94.65",
+    "section": "Demography"
+  },
+  {
+    "question": "What was the sex ratio in the Terai region according to the 2078 census?",
+    "options": ["97.28", "96.11", "94.65", "98.3"],
+    "correctAnswer": "96.11",
+    "section": "Demography"
+  },
+  {
+    "question": "What is the population growth rate in the Himalayan region?",
+    "options": ["Positive (1.56%)", "Slightly positive (0.30%)", "Negative (-0.05%)", "Zero"],
+    "correctAnswer": "Negative (-0.05%)",
+    "section": "Demography"
+  },
+  {
+    "question": "What is the population growth rate in the Hilly region?",
+    "options": ["Negative (-0.05%)", "High (1.56%)", "Slightly positive (0.30%)", "Zero"],
+    "correctAnswer": "Slightly positive (0.30%)",
+    "section": "Demography"
+  },
+  {
+    "question": "What is the population growth rate in the Terai region?",
+    "options": ["Negative (-0.05%)", "Slightly positive (0.30%)", "High (1.56%)", "Zero"],
+    "correctAnswer": "High (1.56%)",
+    "section": "Demography"
+  },
+  {
+    "question": "In which year was Chitwan National Park established, and what is its area?",
+    "options": ["Est. 2032; Area 1,710 sq km", "Est. 2030; Area 952.63 sq km", "Est. 2032; Area 1,148 sq km", "Est. 2040; Area 3,555 sq km"],
+    "correctAnswer": "Est. 2030; Area 952.63 sq km",
+    "section": "Geography"
+  },
+  {
+    "question": "Chitwan National Park is famous for the protection of which animals?",
+    "options": ["Red Panda and Musk Deer", "Snow Leopard", "One-horned rhino, tiger, gharial", "Swamp Deer"],
+    "correctAnswer": "One-horned rhino, tiger, gharial",
+    "section": "Geography"
+  },
+  {
+    "question": "Langtang National Park was established in which year and covers which districts?",
+    "options": ["2032; Solukhumbu", "2032; Rasuwa, Nuwakot, Sindhupalchok", "2040; Dolpa, Mugu", "2030; Chitwan"],
+    "correctAnswer": "2032; Rasuwa, Nuwakot, Sindhupalchok",
+    "section": "Geography"
+  },
+  {
+    "question": "Which animals are protected in Langtang National Park?",
+    "options": ["One-horned rhino", "Snow Leopard", "Red Panda and Musk Deer", "Wild Water Buffalo"],
+    "correctAnswer": "Red Panda and Musk Deer",
+    "section": "Geography"
+  },
+  {
+    "question": "Sagarmatha National Park, established in 2032, is located in which district?",
+    "options": ["Rasuwa", "Dolpa", "Solukhumbu", "Mugu"],
+    "correctAnswer": "Solukhumbu",
+    "section": "Geography"
+  },
+  {
+    "question": "Sagarmatha National Park is known as the highest altitude national park and protects which animal?",
+    "options": ["Red Panda", "Snow Leopard", "Musk Deer", "Clouded Leopard"],
+    "correctAnswer": "Snow Leopard",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the smallest national park in Nepal by area?",
+    "options": ["Khaptad National Park", "Banke National Park", "Rara National Park", "Shivapuri Nagarjun National Park"],
+    "correctAnswer": "Rara National Park",
+    "section": "Geography"
+  },
+  {
+    "question": "Rara National Park, established in 2032, is located in which districts?",
+    "options": ["Dolpa and Mugu", "Bajhang, Bajura, Doti, Achham", "Mugu and Jumla", "Banke, Salyan, Dang"],
+    "correctAnswer": "Mugu and Jumla",
+    "section": "Geography"
+  },
+  {
+    "question": "Bardiya National Park, established in 2032, is known for the protection of which animals?",
+    "options": ["Red Panda and Musk Deer", "Tiger, Elephant, Rhino", "Snow Leopard", "Swamp Deer"],
+    "correctAnswer": "Tiger, Elephant, Rhino",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest national park in Nepal by area?",
+    "options": ["Sagarmatha National Park", "Langtang National Park", "Shey-Phoksundo National Park", "Chitwan National Park"],
+    "correctAnswer": "Shey-Phoksundo National Park",
+    "section": "Geography"
+  },
+  {
+    "question": "Shey-Phoksundo National Park, established in 2040, is located in which districts?",
+    "options": ["Sankhuwasabha, Solukhumbu", "Dolpa, Mugu", "Rukum, Baglung, Myagdi", "Kathmandu, Nuwakot, Sindhupalchok, Dhading"],
+    "correctAnswer": "Dolpa, Mugu",
+    "section": "Geography"
+  },
+  {
+    "question": "Khaptad National Park, established in 2042, is located in which districts?",
+    "options": ["Dolpa, Mugu", "Rukum, Baglung, Myagdi", "Bajhang, Bajura, Doti, Achham", "Banke, Salyan, Dang"],
+    "correctAnswer": "Bajhang, Bajura, Doti, Achham",
+    "section": "Geography"
+  },
+  {
+    "question": "Makalu Barun National Park, established in 2049, is located in which districts?",
+    "options": ["Rasuwa, Nuwakot, Sindhupalchok", "Dolpa, Mugu", "Sankhuwasabha, Solukhumbu", "Parsa, Chitwan, Makwanpur"],
+    "correctAnswer": "Sankhuwasabha, Solukhumbu",
+    "section": "Geography"
+  },
+  {
+    "question": "Shivapuri Nagarjun National Park, established in 2058, protects which animal?",
+    "options": ["Snow Leopard", "Cloudy Leopard", "Red Panda", "Blue Sheep"],
+    "correctAnswer": "Cloudy Leopard",
+    "section": "Geography"
+  },
+  {
+    "question": "Shivapuri Nagarjun National Park covers which districts?",
+    "options": ["Rasuwa, Nuwakot, Sindhupalchok", "Kathmandu, Nuwakot, Sindhupalchok, Dhading", "Kathmandu, Lalitpur, Bhaktapur", "Nuwakot, Dhading, Gorkha"],
+    "correctAnswer": "Kathmandu, Nuwakot, Sindhupalchok, Dhading",
+    "section": "Geography"
+  },
+  {
+    "question": "Banke National Park, established in 2067, is located in which districts?",
+    "options": ["Banke, Salyan, Dang", "Bajhang, Bajura, Doti", "Kanchanpur", "Parsa, Chitwan, Makwanpur"],
+    "correctAnswer": "Banke, Salyan, Dang",
+    "section": "Geography"
+  },
+  {
+    "question": "Shuklaphanta National Park was upgraded from a wildlife reserve to a national park in which year?",
+    "options": ["2031", "2073", "2040", "2074"],
+    "correctAnswer": "2073",
+    "section": "Geography"
+  },
+  {
+    "question": "Shuklaphanta National Park is located in which district and protects which animal?",
+    "options": ["Kanchanpur; Swamp Deer", "Parsa; Tiger", "Banke; Elephant", "Chitwan; One-horned Rhino"],
+    "correctAnswer": "Kanchanpur; Swamp Deer",
+    "section": "Geography"
+  },
+  {
+    "question": "Parsa National Park was upgraded from a wildlife reserve to a national park in which year?",
+    "options": ["2031", "2040", "2073", "2074"],
+    "correctAnswer": "2074",
+    "section": "Geography"
+  },
+  {
+    "question": "Parsa National Park is located in which districts?",
+    "options": ["Kanchanpur", "Banke, Salyan, Dang", "Parsa, Chitwan, Makwanpur", "Rukum, Baglung, Myagdi"],
+    "correctAnswer": "Parsa, Chitwan, Makwanpur",
+    "section": "Geography"
+  },
+  {
+    "question": "Dhorpatan Hunting Reserve, established in 2044, features which animal?",
+    "options": ["Swamp Deer", "Blue Sheep (Naur)", "Wild Water Buffalo (Arna)", "One-horned Rhino"],
+    "correctAnswer": "Blue Sheep (Naur)",
+    "section": "Geography"
+  },
+  {
+    "question": "Dhorpatan Hunting Reserve is located in which districts?",
+    "options": ["Dolpa, Mugu", "Rukum, Baglung, Myagdi", "Sankhuwasabha, Solukhumbu", "Bajhang, Bajura, Doti, Achham"],
+    "correctAnswer": "Rukum, Baglung, Myagdi",
+    "section": "Geography"
+  },
+  {
+    "question": "Which is the largest Conservation Area in Nepal?",
+    "options": ["Kanchenjunga Conservation Area", "Manaslu Conservation Area", "Annapurna Conservation Area", "Gaurishankar Conservation Area"],
+    "correctAnswer": "Annapurna Conservation Area",
+    "section": "Geography"
+  },
+  {
+    "question": "Annapurna Conservation Area was established in which year and covers what area?",
+    "options": ["2049; 7,629 sq km", "2054; 2,035 sq km", "2055; 1,663 sq km", "2066; 2,179 sq km"],
+    "correctAnswer": "2049; 7,629 sq km",
+    "section": "Geography"
+  },
+  {
+    "question": "Kanchenjunga Conservation Area was established in which year?",
+    "options": ["2049", "2054", "2055", "2065"],
+    "correctAnswer": "2054",
+    "section": "Geography"
+  },
+  {
+    "question": "Manaslu Conservation Area was established in which year?",
+    "options": ["2049", "2054", "2055", "2065"],
+    "correctAnswer": "2055",
+    "section": "Geography"
+  },
+  {
+    "question": "Krishnasar Conservation Area, established in 2065 in Bardiya, is dedicated to the protection of which animal?",
+    "options": ["Blue Sheep", "Blackbuck", "Wild Water Buffalo", "Swamp Deer"],
+    "correctAnswer": "Blackbuck",
+    "section": "Geography"
+  },
+  {
+    "question": "Gaurishankar Conservation Area, established in 2066, covers which districts?",
+    "options": ["Darchula", "Bardiya", "Ramechhap, Dolakha, Sindhupalchok", "Rukum, Baglung, Myagdi"],
+    "correctAnswer": "Ramechhap, Dolakha, Sindhupalchok",
+    "section": "Geography"
+  },
+  {
+    "question": "Api-Nampa Conservation Area, established in 2067, is located in which district?",
+    "options": ["Darchula", "Bajhang", "Humla", "Dolpa"],
+    "correctAnswer": "Darchula",
+    "section": "Geography"
+  },
+  {
+    "question": "What are Buffer Zones (Madhyawarti Kshetra) established around?",
+    "options": ["Conservation Areas only", "Hunting Reserves only", "National Parks", "All protected areas"],
+    "correctAnswer": "National Parks",
+    "section": "Geography"
+  },
+  {
+    "question": "In which year was the Buffer Zone for Chitwan National Park established?",
+    "options": ["2040", "2053", "2055", "2073"],
+    "correctAnswer": "2053",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the total protected area coverage in Nepal?",
+    "options": ["24,419.75 sq km", "34,419.75 sq km", "44,419.75 sq km", "14,419.75 sq km"],
+    "correctAnswer": "34,419.75 sq km",
+    "section": "Geography"
+  },
+  {
+    "question": "Koshi Tappu Wildlife Reserve, established in 2032, is famous for the protection of which rare animal?",
+    "options": ["One-horned Rhino", "Snow Leopard", "Wild Water Buffalo (Arna)", "Swamp Deer"],
+    "correctAnswer": "Wild Water Buffalo (Arna)",
+    "section": "Geography"
+  },
+  {
+    "question": "Koshi Tappu Wildlife Reserve is located in which district?",
+    "options": ["Sunsari", "Morang", "Jhapa", "Saptari"],
+    "correctAnswer": "Sunsari",
+    "section": "Geography"
+  },
+  {
+    "question": "Which was the first Ramsar site to be listed in Nepal?",
+    "options": ["Beeshazar Tal", "Ghodaghodi Lake", "Koshi Tappu", "Jagdishpur Reservoir"],
+    "correctAnswer": "Koshi Tappu",
+    "section": "Geography"
+  },
+  {
+    "question": "Koshi Tappu was listed as a Ramsar site in which year, covering how many hectares?",
+    "options": ["1987; 17,500 hectares", "2003; 3,200 hectares", "2007; 1,583 hectares", "2008; 90 hectares"],
+    "correctAnswer": "1987; 17,500 hectares",
+    "section": "Geography"
+  },
+  {
+    "question": "Beeshazar Tal, a Ramsar site listed in 2003, is located in which district?",
+    "options": ["Rupandehi", "Kapilvastu", "Kailali", "Chitwan"],
+    "correctAnswer": "Chitwan",
+    "section": "Geography"
+  },
+  {
+    "question": "Jagdishpur Reservoir, a Ramsar site, is located in which district?",
+    "options": ["Rupandehi", "Kapilvastu", "Kailali", "Surkhet"],
+    "correctAnswer": "Kapilvastu",
+    "section": "Geography"
+  },
+  {
+    "question": "Which of the following lakes was listed as a Ramsar site in 2007?",
+    "options": ["Gokyo Lakes", "Mai Pokhari", "Pokhara Valley Lake Cluster", "Beeshazar Tal"],
+    "correctAnswer": "Gokyo Lakes",
+    "section": "Geography"
+  },
+  {
+    "question": "Mai Pokhari, listed as a Ramsar site in 2008, is located in which district?",
+    "options": ["Ilam", "Jhapa", "Panchthar", "Dhankuta"],
+    "correctAnswer": "Ilam",
+    "section": "Geography"
+  },
+  {
+    "question": "The Pokhara Valley Lake Cluster was listed as a Ramsar site in which year?",
+    "options": ["2003", "2007", "2008", "2016"],
+    "correctAnswer": "2016",
+    "section": "Geography"
+  },
+  {
+    "question": "At what elevation range is Yarsagumba found in Nepal?",
+    "options": ["2,000m to 3,000m", "3,000m to 5,000m", "4,000m to 6,000m", "1,000m to 2,500m"],
+    "correctAnswer": "3,000m to 5,000m",
+    "section": "Geography"
+  },
+  {
+    "question": "When does Yarsagumba appear above ground in the Himalayan region?",
+    "options": ["During the monsoon", "At the start of winter", "As snow melts", "During autumn"],
+    "correctAnswer": "As snow melts",
+    "section": "Geography"
+  },
+  {
+    "question": "What is the unique biological nature of Yarsagumba?",
+    "options": ["It is a pure plant", "It is a pure fungus", "It begins as a larva and later transforms into a fungus", "It is a type of moss"],
+    "correctAnswer": "It begins as a larva and later transforms into a fungus",
+    "section": "Geography"
+  },
+  {
+    "question": "For which of the following medicinal purposes is Yarsagumba used?",
+    "options": ["Treating fractures", "Back pain and anemia", "Digestive issues", "Skin diseases"],
+    "correctAnswer": "Back pain and anemia",
+    "section": "Geography"
+  },
+  {
+    "question": "What health benefit is Yarsagumba believed to provide?",
+    "options": ["It increases immunity", "It cures blindness", "It strengthens bones", "It improves eyesight"],
+    "correctAnswer": "It increases immunity",
+    "section": "Geography"
+  }
+
+
+
+
+
+
+
+]
