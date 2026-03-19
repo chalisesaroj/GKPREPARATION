@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GKPREPARATION/static/css/main.19785f37.css",
-    "main.js": "/GKPREPARATION/static/js/main.df86bfdc.js",
-    "static/js/453.a4192eab.chunk.js": "/GKPREPARATION/static/js/453.a4192eab.chunk.js",
-    "index.html": "/GKPREPARATION/index.html",
-    "main.19785f37.css.map": "/GKPREPARATION/static/css/main.19785f37.css.map",
-    "main.df86bfdc.js.map": "/GKPREPARATION/static/js/main.df86bfdc.js.map",
-    "453.a4192eab.chunk.js.map": "/GKPREPARATION/static/js/453.a4192eab.chunk.js.map"
+    "main.css": "/gkpreparation/static/css/main.19785f37.css",
+    "main.js": "/gkpreparation/static/js/main.e9e3aca7.js",
+    "static/js/453.a4192eab.chunk.js": "/gkpreparation/static/js/453.a4192eab.chunk.js",
+    "index.html": "/gkpreparation/index.html",
+    "main.19785f37.css.map": "/gkpreparation/static/css/main.19785f37.css.map",
+    "main.e9e3aca7.js.map": "/gkpreparation/static/js/main.e9e3aca7.js.map",
+    "453.a4192eab.chunk.js.map": "/gkpreparation/static/js/453.a4192eab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19785f37.css",
-    "static/js/main.df86bfdc.js"
+    "static/js/main.e9e3aca7.js"
   ]
 }
