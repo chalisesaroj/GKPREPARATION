@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loksewaquiz/static/css/main.19785f37.css",
-    "main.js": "/loksewaquiz/static/js/main.ae66726a.js",
-    "static/js/453.a4192eab.chunk.js": "/loksewaquiz/static/js/453.a4192eab.chunk.js",
-    "index.html": "/loksewaquiz/index.html",
-    "main.19785f37.css.map": "/loksewaquiz/static/css/main.19785f37.css.map",
-    "main.ae66726a.js.map": "/loksewaquiz/static/js/main.ae66726a.js.map",
-    "453.a4192eab.chunk.js.map": "/loksewaquiz/static/js/453.a4192eab.chunk.js.map"
+    "main.css": "/GKPREPARATION/static/css/main.19785f37.css",
+    "main.js": "/GKPREPARATION/static/js/main.29e47961.js",
+    "static/js/453.a4192eab.chunk.js": "/GKPREPARATION/static/js/453.a4192eab.chunk.js",
+    "index.html": "/GKPREPARATION/index.html",
+    "main.19785f37.css.map": "/GKPREPARATION/static/css/main.19785f37.css.map",
+    "main.29e47961.js.map": "/GKPREPARATION/static/js/main.29e47961.js.map",
+    "453.a4192eab.chunk.js.map": "/GKPREPARATION/static/js/453.a4192eab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19785f37.css",
-    "static/js/main.ae66726a.js"
+    "static/js/main.29e47961.js"
   ]
 }
