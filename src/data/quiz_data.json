@@ -2977,9 +2977,343 @@
     "options": ["It increases immunity", "It cures blindness", "It strengthens bones", "It improves eyesight"],
     "correctAnswer": "It increases immunity",
     "section": "Geography"
+  },
+  {
+    "question": "As of mid-July 2024, how many years of planned development has Nepal completed with the conclusion of the Fifteenth Plan?",
+    "options": ["57 years", "67 years", "77 years", "47 years"],
+    "correctAnswer": "67 years",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The implementation of ten five-year and five three-year periodic plans were involved in Nepal's development journey up to the end of which plan?",
+    "options": ["Fourteenth Plan", "Sixteenth Plan", "Fifteenth Plan", "Ninth Plan"],
+    "correctAnswer": "Fifteenth Plan",
+    "section": "National-Plan"
+  },
+  {
+    "question": "In which fiscal years did Nepal experience 'planning holidays' where no periodic plans were implemented?",
+    "options": ["1961/62, 1979/80, 1980/81", "1961/62, 1990/91, 1991/92", "1990/91, 2000/01, 2001/02", "1956/57, 1961/62, 1990/91"],
+    "correctAnswer": "1961/62, 1990/91, 1991/92",
+    "section": "National-Plan"
+  },
+  {
+    "question": "Which periodic plan was the first to adopt poverty reduction as its single objective, in line with a 20-year long-term development vision?",
+    "options": ["Eighth Plan", "Tenth Plan", "Ninth Plan", "Eleventh Plan"],
+    "correctAnswer": "Ninth Plan",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What was the implementation period of the Ninth Plan, which was the first to accept poverty reduction as its single objective?",
+    "options": ["1999/00 - 2003/04", "1997/98 - 2001/02", "1995/96 - 1999/2000", "2002/03 - 2006/07"],
+    "correctAnswer": "1997/98 - 2001/02",
+    "section": "National-Plan"
+  },
+  {
+    "question": "Which plan was the first to guide Nepal's federal structure of governance?",
+    "options": ["Fifteenth Plan", "Thirteenth Plan", "Fourteenth Plan", "Sixteenth Plan"],
+    "correctAnswer": "Fourteenth Plan",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What was the average annual economic growth rate achieved during the Fourteenth Plan?",
+    "options": ["7.2 percent", "6.5 percent", "7.4 percent", "9.6 percent"],
+    "correctAnswer": "7.4 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Fourteenth Plan's achieved economic growth rate of 7.4 percent compared to its target of 7.2 percent means it performed how relative to its goal?",
+    "options": ["It exactly met the target", "It exceeded the target", "It fell short of the target", "The target was not set"],
+    "correctAnswer": "It exceeded the target",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What was the ambitious economic growth target set by the Fifteenth Plan?",
+    "options": ["7.4 percent", "2.6 percent", "8.1 percent", "9.6 percent"],
+    "correctAnswer": "9.6 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What was the actual average economic growth rate achieved during the Fifteenth Plan?",
+    "options": ["7.4 percent", "9.6 percent", "2.6 percent", "4.5 percent"],
+    "correctAnswer": "2.6 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "Which factors were cited for the Fifteenth Plan's underperformance in achieving its economic growth target?",
+    "options": ["Internal structural factors only", "External shocks like the COVID-19 pandemic only", "Internal structural factors and external shocks like COVID-19", "A sudden decrease in foreign aid"],
+    "correctAnswer": "Internal structural factors and external shocks like COVID-19",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the implementation period for the Sixteenth Plan?",
+    "options": ["2023/24 - 2027/28", "2024/25 - 2028/29", "2025/26 - 2029/30", "2022/23 - 2026/27"],
+    "correctAnswer": "2024/25 - 2028/29",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the stated vision of the Sixteenth Plan?",
+    "options": ["Prosperous Nepal, Happy Nepali", "Good Governance, Social Justice and Prosperity", "Social Justice and Economic Development", "Sustainable Development, Good Governance and Prosperity"],
+    "correctAnswer": "Good Governance, Social Justice and Prosperity",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the main goal of the Sixteenth Plan concerning the lives of common people?",
+    "options": ["Increasing foreign employment opportunities", "Attaining development and good governance that can be perceived in their life", "Doubling the per capita income", "Ensuring 100 percent electrification"],
+    "correctAnswer": "Attaining development and good governance that can be perceived in their life",
+    "section": "National-Plan"
+  },
+  {
+    "question": "In which sectors does the Sixteenth Plan aim to promote good governance?",
+    "options": ["Only political and administrative sectors", "Only private and non-governmental sectors", "Political, administrative, judicial, private, and non-governmental sectors", "Administrative, judicial, and private sectors only"],
+    "correctAnswer": "Political, administrative, judicial, private, and non-governmental sectors",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan seeks to establish social justice in which areas?",
+    "options": ["Health and education only", "Health, education, employment, settlement, security, and public service delivery", "Employment and public service delivery only", "Settlement and security only"],
+    "correctAnswer": "Health, education, employment, settlement, security, and public service delivery",
+    "section": "National-Plan"
+  },
+  {
+    "question": "According to the Sixteenth Plan, where is prosperity primarily sought to be achieved?",
+    "options": ["Only in the national economy", "Only in urban areas", "In human life and the national economy", "In the industrial sector"],
+    "correctAnswer": "In human life and the national economy",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the macro strategy of the Sixteenth Plan to achieve its goals?",
+    "options": ["Increasing foreign aid dependency", "Privatization of all state-owned enterprises", "Structural transformation of the economy", "Focusing solely on the agricultural sector"],
+    "correctAnswer": "Structural transformation of the economy",
+    "section": "National-Plan"
+  },
+  {
+    "question": "How many major areas of structural transformation are identified in the Sixteenth Plan?",
+    "options": ["10", "15", "13", "12"],
+    "correctAnswer": "13",
+    "section": "National-Plan"
+  },
+  {
+    "question": "Which of the following is NOT one of the 13 major areas of structural transformation identified in the Sixteenth Plan?",
+    "options": ["Enhancing production, productivity and competitiveness", "Promotion of information technology only", "Smooth graduation from Least Developed Country status", "Consolidation of provincial and local economies"],
+    "correctAnswer": "Promotion of information technology only",
+    "section": "National-Plan"
+  },
+  {
+    "question": "One of the plan's strategies is to address structural barriers in all sectors to enhance what?",
+    "options": ["Foreign investment only", "Production, productivity, and competitive capacity", "Government revenue", "Population growth"],
+    "correctAnswer": "Production, productivity, and competitive capacity",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The plan aims to strengthen inter-relations and work capacity among which entities?",
+    "options": ["Only federal and provincial levels", "Only government and private sectors", "Federal, provincial, and local levels, as well as government, private, cooperative, non-governmental sectors, and development partners", "Only provincial and local levels, and development partners"],
+    "correctAnswer": "Federal, provincial, and local levels, as well as government, private, cooperative, non-governmental sectors, and development partners",
+    "section": "National-Plan"
+  },
+  {
+    "question": "Which principles does the Sixteenth Plan internalize in all sectors and dimensions of development?",
+    "options": ["Gender mainstreaming, use of modern technology, environmental conservation, and disaster risk reduction", "Privatization, liberalization, and globalization", "Centralized planning and top-down approach", "Focus on industrial sector only"],
+    "correctAnswer": "Gender mainstreaming, use of modern technology, environmental conservation, and disaster risk reduction",
+    "section": "National-Plan"
+  },
+  {
+    "question": "On what basis does the Sixteenth Plan mandate the implementation of policies and development programs?",
+    "options": ["Political ideology", "Public opinion polls", "Study, research, and scientific evidence", "Historical precedence"],
+    "correctAnswer": "Study, research, and scientific evidence",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the target for irregularities as a proportion of GDP to be reduced to by the end of the Sixteenth Plan (F.Y. 2028/29)?",
+    "options": ["4.5 percent", "5.0 percent", "5.5 percent", "6.0 percent"],
+    "correctAnswer": "5.0 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By F.Y. 2028/29, what percentage of Nepali citizens is targeted to have received a national identity card number?",
+    "options": ["80 percent", "85 percent", "90 percent", "95 percent"],
+    "correctAnswer": "90 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan targets what percentage for birth registration of children under five years of age by F.Y. 2028/29?",
+    "options": ["90 percent", "95 percent", "98 percent", "100 percent"],
+    "correctAnswer": "100 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the target for the Inequality adjusted Human Development Index (IHDI) by the end of the Sixteenth Plan?",
+    "options": ["0.500", "0.550", "0.600", "0.650"],
+    "correctAnswer": "0.600",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Gini coefficient based on consumption is targeted to reach what value by F.Y. 2028/29?",
+    "options": ["0.220", "0.250", "0.280", "0.300"],
+    "correctAnswer": "0.280",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By F.Y. 2028/29, what is the target for the asset-based Gini coefficient?",
+    "options": ["0.20", "0.22", "0.24", "0.28"],
+    "correctAnswer": "0.22",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan targets that what percentage of the population will be covered by basic social security by F.Y. 2028/29?",
+    "options": ["50 percent", "55 percent", "60 percent", "65 percent"],
+    "correctAnswer": "60 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the target for the Gender Development Index by the end of the Sixteenth Plan (F.Y. 2028/29)?",
+    "options": ["0.900", "0.925", "0.950", "0.967"],
+    "correctAnswer": "0.967",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By F.Y. 2028/29, what is the target value for the Gender Inequality Index?",
+    "options": ["0.200", "0.225", "0.250", "0.275"],
+    "correctAnswer": "0.225",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan targets what ratio of participation of women to men in employment by F.Y. 2028/29?",
+    "options": ["1:1", "1:1.5", "1:1.2", "1.2:1"],
+    "correctAnswer": "1:1.2",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the target prevalence of forced labor (for population 15 years and above) per thousand by F.Y. 2028/29?",
+    "options": ["1 per thousand", "0.5 per thousand", "0 per thousand", "Eliminate completely"],
+    "correctAnswer": "0 per thousand",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By F.Y. 2028/29, what percentage of households are targeted to have registered houses or land or both in the name of a woman?",
+    "options": ["25.0 percent", "30.0 percent", "35.0 percent", "40.0 percent"],
+    "correctAnswer": "35.0 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the average annual economic growth rate (at base price) target for the Sixteenth Plan period ending in F.Y. 2028/29?",
+    "options": ["6.5 percent", "7.0 percent", "7.3 percent", "8.0 percent"],
+    "correctAnswer": "7.3 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan targets Gross National Income per capita to reach what level by F.Y. 2028/29?",
+    "options": ["US$ 1,500", "US$ 2,000", "US$ 2,351", "US$ 2,500"],
+    "correctAnswer": "US$ 2351",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the target for the population below the national poverty line (absolute poverty) by the end of the Sixteenth Plan (F.Y. 2028/29)?",
+    "options": ["18.0 percent", "15.0 percent", "12.0 percent", "10.0 percent"],
+    "correctAnswer": "12.0 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By F.Y. 2028/29, what is the consumer price inflation target set in the Sixteenth Plan?",
+    "options": ["4.5 percent", "5.0 percent", "5.5 percent", "6.0 percent"],
+    "correctAnswer": "5.0 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the Human Development Index target for F.Y. 2028/29 as per the Sixteenth Plan?",
+    "options": ["0.600", "0.625", "0.650", "0.675"],
+    "correctAnswer": "0.650",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan targets the Human Assets Index to reach what value by F.Y. 2028/29?",
+    "options": ["72.0", "75.0", "78.0", "80.0"],
+    "correctAnswer": "78.0",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the target for the Economic and Environmental Vulnerability Index by the end of the Sixteenth Plan (F.Y. 2028/29)?",
+    "options": ["22", "24", "26", "28"],
+    "correctAnswer": "24",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By F.Y. 2028/29, what is the literacy rate target for the population aged 5 years and above?",
+    "options": ["75 percent", "80 percent", "85 percent", "90 percent"],
+    "correctAnswer": "85 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan targets life expectancy at birth to reach what level by F.Y. 2028/29?",
+    "options": ["70 years", "71 years", "72 years", "73 years"],
+    "correctAnswer": "73 years",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What percentage of households are targeted to have access to health facilities within a 30-minute distance by F.Y. 2028/29?",
+    "options": ["75 percent", "80 percent", "85 percent", "90 percent"],
+    "correctAnswer": "90 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By the end of the Sixteenth Plan, what is the target percentage for households with access to improved drinking water facilities?",
+    "options": ["35 percent", "40 percent", "45 percent", "50 percent"],
+    "correctAnswer": "45 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The unemployment rate is targeted to be reduced to what level by F.Y. 2028/29?",
+    "options": ["3.0 percent", "4.0 percent", "5.0 percent", "6.0 percent"],
+    "correctAnswer": "5.0 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the labor productivity target (in NRs. thousand) for F.Y. 2028/29?",
+    "options": ["250 thousand", "265 thousand", "275 thousand", "290 thousand"],
+    "correctAnswer": "NRs. 275 thousand",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan targets average productivity of major agricultural crops at what level by F.Y. 2028/29?",
+    "options": ["3.2 Mt. ton per hectare", "3.5 Mt. ton per hectare", "3.7 Mt. ton per hectare", "4.0 Mt. ton per hectare"],
+    "correctAnswer": "3.7 Mt. ton per hectare",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the target for households with access to banks and financial institutions by F.Y. 2028/29?",
+    "options": ["75 percent", "80 percent", "85 percent", "90 percent"],
+    "correctAnswer": "85 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By F.Y. 2028/29, road density is targeted to reach what level?",
+    "options": ["0.65 km per sq. km", "0.70 km per sq. km", "0.77 km per sq. km", "0.80 km per sq. km"],
+    "correctAnswer": "0.77 km. per sq. km.",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What is the target for power generation (installed capacity) in Megawatts by F.Y. 2028/29?",
+    "options": ["5,000 Megawatts", "8,500 Megawatts", "11,769 Megawatts", "15,000 Megawatts"],
+    "correctAnswer": "11,769 Megawatts",
+    "section": "National-Plan"
+  },
+  {
+    "question": "The Sixteenth Plan targets per capita electricity consumption to reach what level by F.Y. 2028/29?",
+    "options": ["500 Kilowatt hours", "600 Kilowatt hours", "700 Kilowatt hours", "800 Kilowatt hours"],
+    "correctAnswer": "700 Kilowatt hours",
+    "section": "National-Plan"
+  },
+  {
+    "question": "What percentage of the population is targeted to have access to electricity by F.Y. 2028/29?",
+    "options": ["90 percent", "95 percent", "98 percent", "100 percent"],
+    "correctAnswer": "100 percent",
+    "section": "National-Plan"
+  },
+  {
+    "question": "By the end of the Sixteenth Plan (F.Y. 2028/29), what is the target for the percentage of the population with access to the Internet?",
+    "options": ["75 percent", "80 percent", "85 percent", "90 percent"],
+    "correctAnswer": "90 percent",
+    "section": "National-Plan"
   }
-
-
 
 
 
